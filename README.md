@@ -12,6 +12,12 @@ Alongside our open source initiative, we are also open sourcing related datasets
 
 ## Description of the model
 
+* Data
+
+* Evaluation
+
+* Setup
+
 
 ## Navigate this project
 * How this works: <https://github.com/Saphron-Asia/nan.ai-ml-nlu/blob/main/HOWTO.md>
