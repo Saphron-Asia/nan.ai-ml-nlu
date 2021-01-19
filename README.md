@@ -1,8 +1,8 @@
 # nan.ai Natural Language Understanding (NLU)
 
-nan.ai Natural Language Understanding (NLU)  is an open source machine learning service built for NAN.ai (a grassroots agent platform for microinsurance) support chatbot. This module transforms a user utterance into a machine understandable units i.e. a predefined semantic frame as a precursor to intent identification. 
+nan.ai Natural Language Understanding (NLU)  is an open source machine learning service built for nan.ai (a grassroots agent platform for microinsurance) support chatbot. This module transforms a user utterance into a machine understandable units i.e. a predefined semantic frame as a precursor to intent identification. 
 
-The NAN.ai NLU ML Service has two components:
+The nan.ai NLU ML Service has two components:
 1. Semantic parsing - 
 2. Intent recognition - 
 
