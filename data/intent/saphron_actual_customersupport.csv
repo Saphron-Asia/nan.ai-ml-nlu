@@ -1,0 +1,210 @@
+id,timestamp,inquiry,label
+1003276,1/23/2020 3:30pm,Hindi nya naisagot ng tama ang tanong ni nanai tungkol sa kapanganakan.,faq.app_use
+7933601,1/23/2020 4:50pm,Hindi pa nya tapos ang pagkukuha ng picture.,faq.app_use
+9833856,1/23/2020 4:55pm,"Hindi gumagana yung chatbot, hindi nagreresponse sa kanya si nanai",faq.app_use
+1629110,1/23/2020 5:01pm,Hindi nya pinipindot yung mga selection na binibigay ni nanay at nawawala napo cya.,faq.app_use
+6705620,1/23/2020 5:08pm,Hindi nya po tinapos ang pagkukuha ng litrato.,faq.app_use
+4393581,1/23/2020 5:40pm,"Mali yung nirereply kay nanai, dapat ay magsimula na siyang kumuha ng litrato.",faq.app_use
+7354161,1/23/2020 5:52pm,Nag - error yung pagkuha nya ng picture.,faq.app_use
+3352644,1/24/2020 10:08am,Bakit raw paulit ulit cya ng pagkuha ng picture ni wala naman raw cyang binabago.,faq.app_use
+2494367,1/24/2020 10:44am,Hindi nya tinapos ang pagkuha ng litrato.,faq.app_use
+1196864,1/24/2020 10:54am,Hindi cya makapag-enroll.,faq.app_use
+4537952,1/27/2020 6:31pm,Hindi cya nakakapasok kay nanai kasi mali yung number ang pinapasok nya.,faq.app_use
+4139346,1/27/2020 6:36pm,Mali yung Format ng Birthdate na binibigay nya.,faq.app_use
+5123584,1/30/2020 5:39pm,Hindi pa nya natatapos ang pagkukuha ng picture.,faq.app_use
+2786352,1/30/2020 5:44pm,"Hindi pa cya nagsisimula sa pagkuha ng litrato matapos nyang pindutin ang ""TAMA at Magpatuloy"".",faq.app_use
+6771818,1/30/2020 5:51pm,"Hindi tama ang pagkakakuha nya ng litrato, at hindi pa nya tinatapos.",faq.app_use
+2227906,1/30/2020 5:57pm,"Hindi nya pinipindot yung ""Bumalik sa Menu"" at nagsend cya ng video ng form.",faq.app_use
+6330802,2/7/2020 1:24pm,Mali yung nilalagay nyang format about sa Bilang ng anak.,faq.app_use
+6298208,2/7/2020 1:32pm,Hindi nagreresponse ang chatbot sa mga options na pinipili nya.,faq.app_use
+4120750,2/7/2020 1:36pm,"Hindi cya makapag-enroll ulit kasi hindi nya pinipindot ang ""Mag-ENROLL pa"".",faq.app_use
+8713436,2/7/2020 1:42pm,Hindi cya makaproceed sa pagregister.,faq.app_use
+4068253,2/7/2020 1:55pm,Hindi pa nya tapos ang pagkukuha ng picture.,faq.app_use
+5917464,2/7/2020 2:12pm,Hindi nagreresponse ang chatbot sa kanya.,faq.app_use
+6649692,2/7/2020 2:23pm,Hindi nagreresponse ang chatbot sa kanya.,faq.app_use
+4863709,2/7/2020 2:24pm,Hindi nagreresponse sa kanya ang chatbot.,faq.app_use
+3388878,2/7/2020 2:43pm,Hindi nya ma-enroll ng tama yung customer nya.,faq.app_use
+9949763,2/7/2020 3:07pm,Hindi nagreresponse ang chatbot sa kanya.,faq.app_use
+4397754,2/7/2020 3:43pm,Hindi nya pinagpatuloy ang pakuha ng picture.,faq.app_use
+2279997,2/7/2020 4:04pm,Hindi cya makapagregister.,faq.bad_service
+8040205,2/13/2020 11:35am,Hindi cya makapag-register.,faq.bad_service
+7377503,2/13/2020 11:37am,Hindi cya makapag-proceed sa enrollment.,faq.app_use
+6453075,2/18/2020 1:09pm,May nakalimutan syang eenroll.,faq.app_use
+3172550,2/18/2020 1:20pm,Hindi cya matapos sa pag-eenroll kasi kulang yung detalye na ini-encode nya.,faq.app_use
+1449539,2/18/2020 1:29pm,Hindi pa nya tapos ang pagkuha ng picture.,faq.app_use
+1319159,2/18/2020 1:35pm,Hindi cya matapos tapos sa pag-eenroll.,faq.app_use
+7349654,2/18/2020 6:31pm,Hindi cya makapag-enroll ulit.,
+2948584,2/18/2020 6:39pm,Hindi cya makapag-enroll.,faq.bad_service
+3236881,2/19/2020 11:00am,Hindi cya makapagregister.,faq.bad_service
+4953044,2/19/2020 11:28am,Hindi cya makapagregister.,faq.bad_service
+3833247,2/19/2020 11:33am,Hindi cya makapagregister.,faq.bad_service
+8134529,2/20/2020 11:09am,Hindi cya matapos sa pag-eenroll,faq.app_use
+7528496,2/21/2020 10:39am,Hindi pa nya tapos ang pagkukuha ng picture.,faq.app_use
+9450337,2/21/2020 10:42am,Hindi cya makapag-enroll.,faq.bad_service
+4151975,2/21/2020 10:58am,Hindi sya makapag-enroll.,faq.bad_service
+4417724,2/21/2020 11:01am,Mali yung pinag-enroll nya na account ng nanai.,faq.app_use
+3670406,2/21/2020 1:10pm,Hindi cya makapagregister.,faq.bad_service
+3212108,2/21/2020 2:33pm,Hindi nya tinapos ang pagkukuha ng picture.,faq.app_use
+9760107,2/21/2020 2:38pm,Hindi cya makapagregister.,faq.bad_service
+1748532,2/21/2020 3:30pm,Hindi sya makipagregister.,faq.bad_service
+2386676,2/21/2020 3:39pm,Hindi cya makapagregister.,faq.bad_service
+9195295,2/21/2020 4:46pm,Hindi cya makapagregister.,faq.bad_service
+6907956,2/21/2020 7:52pm,The agent can't register and enroll the policies,faq.app_use
+8465290,2/24/2020 4:20pm,Hindi pa nya tinapos ang pagkukuha ng picture.,faq.app_use
+7476090,2/24/2020 4:24pm,Hindi cya makapagregister,faq.bad_service
+9077909,2/24/2020 4:27pm,Hindi cya makapagregister.,faq.bad_service
+7091580,2/24/2020 4:39pm,Hindi pa nya tapos ang pagkukuha ng picture.,faq.app_use
+9493793,2/24/2020 4:39pm,Hindi pa nya tinatapos ang pagkuha ng picture.,faq.app_use
+2047953,2/24/2020 4:49pm,Hindi pa sya matapos tapos sa pag-enroll,faq.app_use
+3739549,2/24/2020 4:53pm,Hindi cya makapagregister.,faq.bad_service
+9757493,2/24/2020 5:05pm,Hindi cya makapagregister.,faq.bad_service
+7067145,2/24/2020 5:07pm,Hindi cya makapagregister.,faq.bad_service
+9883526,2/24/2020 5:09pm,Hindi cya makapagregister.,faq.bad_service
+1758344,2/24/2020 5:10pm,Hindi cya makapagregister.,faq.bad_service
+3369339,2/24/2020 5:14pm,Hindi cya makapagregister.,faq.bad_service
+8178342,2/26/2020 11:37am,Hindi cya makapagregister.,faq.bad_service
+6690699,2/26/2020 11:40am,Hindi cya makapagregister.,faq.bad_service
+8568911,2/26/2020 11:42am,Hindi cya makapagregister.,faq.bad_service
+3830017,2/26/2020 11:44am,Hindi cya makapagpatuloy sa pagkuha ng picture.,faq.app_use
+7222333,2/26/2020 11:53am,Hindi cya makapagregister.,faq.bad_service
+1759771,2/26/2020 1:17pm,Hindi cya makapagregister.,faq.bad_service
+4394093,2/26/2020 1:19pm,Hindi cya makapagregister.,faq.bad_service
+6718365,2/26/2020 1:20pm,Hindi cya makapagregister.,faq.bad_service
+5025937,2/26/2020 1:23pm,Hindi cya makapagregister.,faq.bad_service
+8857921,2/26/2020 1:24pm,Hindi cya makapagregister.,faq.bad_service
+5628156,2/26/2020 1:27pm,Hindi cya makapagregister.,faq.bad_service
+7910100,2/26/2020 1:28pm,Hindi cya makapagregister.,faq.bad_service
+4751343,2/26/2020 1:29pm,Hindi cya makapagregister.,faq.bad_service
+2738549,2/26/2020 1:31pm,Hindi cya makatapos sa pagregister.,faq.app_use
+4117352,2/26/2020 1:38pm,Hindi cya makapagregister.,faq.bad_service
+3695095,2/26/2020 1:43pm,Makipag-ugnayan po tayo sa ating PRO para sa activation ng account.,faq.app_use
+8668254,2/26/2020 1:44pm,Hindi cya makapagregister.,faq.bad_service
+1275594,2/26/2020 1:55pm,Hindi cya makapag-enroll .,faq.bad_service
+7957291,2/26/2020 2:10pm,Hindi cya makapagregister.,faq.bad_service
+2521795,2/26/2020 2:16pm,Hindi pa nya natatapos ang pagkukuha ng picture.,faq.app_use
+2360326,2/26/2020 3:33pm,Hindi cya makapagregister.,faq.app_use
+3241725,2/26/2020 6:46pm,Hindi tinanggap yung picture nya kasi malabo at mali.,faq.app_use
+7679417,2/27/2020 10:37am,Hindi cya makapagregister.,faq.bad_service
+2890281,2/27/2020 10:44am,Nagsend na cya ng picture pagkatapos nyang maenroll yung isa.,
+1100562,2/27/2020 11:11am,Hindi makapagregister.,faq.bad_service
+3382060,2/27/2020 11:18am,Hindi cya makapagregister.,faq.bad_service
+6973981,2/27/2020 11:28am,Hindi cya makapagregister.,faq.bad_service
+9801231,2/27/2020 11:29am,Hindi cya makapagregister.,faq.bad_service
+7093690,2/27/2020 11:34am,Hindi cya makapagregister mali yung number at registration code.,faq.bad_service
+2198596,2/27/2020 7:22pm,The agent doesn't know where to get the registration code. ,faq.app_use
+9081429,2/27/2020 7:30pm,The agent can't register,faq.bad_service
+2056605,2/27/2020 7:36pm,The agent can't register ,faq.bad_service
+6515192,2/28/2020 11:21am,The agent can't register. ,faq.bad_service
+7208012,2/28/2020 11:33am,Hindi cya makapagregister.,faq.bad_service
+7477113,2/28/2020 12:01pm,The agent used a different mobile number and tried to register her primary number that she used during her training but it failed to register. ,faq.app_use
+8009722,2/28/2020 12:07pm,Failed Registration,faq.bad_service
+5451162,2/28/2020 3:22pm,Failed Registration,faq.bad_service
+7747465,3/2/2020 7:38pm,Failed Registration,faq.bad_service
+3670832,3/2/2020 7:42pm,Wrong Format - Birthdate,faq.app_use
+6323551,3/2/2020 7:48pm,Failled Enrollment -  No Birthdate ,faq.app_use
+7117397,3/2/2020 7:52pm,Failed Registration - Wrong Code ,faq.app_use
+6990530,3/2/2020 7:57pm,General Support - Can't Go Back to Menu,faq.app_use
+3293881,3/2/2020 8:01pm,"Failed Enrollment - Photo 
+
+The agent uploaded a video instead of the photos of the forms ",faq.app_use
+7516538,3/3/2020 1:36pm,Hindi cya makapagregister.,faq.bad_service
+6135018,3/3/2020 1:38pm,Hindi makapagregister.,faq.bad_service
+8372261,3/3/2020 1:39pm,Registration - FAILED / UNFINISHED ,faq.app_use
+8082966,3/3/2020 1:43pm,Policy Enrollment / Renewal  - UNFINISHED,faq.app_use
+6595252,3/3/2020 1:45pm,Hindi makapagregister.,faq.bad_service
+7355489,3/3/2020 2:06pm,Failed Policy Enrollment - Incorrect Photo Format ,faq.app_use
+5135588,3/3/2020 2:22pm,Failed Registration - Incorrect Mobile Number ,faq.app_use
+5433931,3/3/2020 2:28pm,Failed Policy Enrollment - Incorrect Process of Uploading Photos,faq.app_use
+8601025,3/3/2020 2:44pm,Failed Policy Enrollment - Chatbot Issue ,faq.app_use
+3619617,3/3/2020 2:56pm,Hindi makapagregister.,faq.app_use
+6554439,3/3/2020 2:57pm,Registration - Unfinished ,faq.app_use
+4483397,3/3/2020 3:04pm,Policy Enrollment - Unfinished ,faq.app_use
+9123136,3/3/2020 3:18pm,Failed Registration -  Incorrect Mobile Number ,faq.app_use
+3381771,3/3/2020 3:21pm,Policy Enrollment  - Unfinished ,faq.app_use
+3913361,3/5/2020 11:27am,Hindi nagreresponse sa kanya ang chatbot.,faq.bad_service
+5829498,3/5/2020 11:29am,Hindi cya makapagregister.,faq.bad_service
+2583567,3/6/2020 2:32pm,Hindi makapagregister.,faq.bad_service
+4528266,3/6/2020 2:55pm,Hindi nya tinapos yung pagkukuha ng picture.,faq.app_use
+4323987,3/9/2020 10:29am,"Hindi nya pinipindot ang mga option, pagkatapos nyang mag-enroll.",faq.app_use
+6831880,3/9/2020 10:35am,Hindi nagrereply sa kanya ang chatbot.,faq.app_use
+7857434,3/9/2020 10:49am,Hindi nagrereply sa kanya ang chatbot.,faq.app_use
+7679794,3/9/2020 10:59am,Error sa pagkukuha ng litrato.,faq.app_use
+8032296,3/9/2020 11:08am,Hindi pa nya tapos ang pagkukuha ng litrato.,faq.app_use
+5976217,3/9/2020 4:47pm,Hindi makapagregister.,faq.bad_service
+3897459,3/9/2020 7:57pm,Failed Registration ,faq.bad_service
+8466025,3/9/2020 7:58pm,Failed Registration,faq.bad_service
+2947766,3/11/2020 3:06pm,Hindi makapagregister.,faq.bad_service
+1973611,3/11/2020 6:26pm,Failed Registration,faq.bad_service
+8788002,3/11/2020 6:26pm,Hindi pa nya tapos ang pagkukuha ng litrato,faq.app_use
+1628120,3/13/2020 11:36am,Hindi makapagregister.,faq.bad_service
+5989406,3/13/2020 2:14pm,Failed Registration ,faq.bad_service
+6690332,3/13/2020 2:26pm,Hindi makapagregister.,faq.bad_service
+9107796,3/13/2020 2:36pm,Failed Registration,faq.bad_service
+4061308,3/13/2020 2:46pm,Hindi pa nya tinatapos ang pagkukuha ng litrato.,faq.app_use
+5456118,3/13/2020 4:44pm,Unfinished Policy Enrollment ,faq.app_use
+1516868,3/16/2020 1:37pm,Hindi nya tinapos ang pagkukuha ng picture.,faq.app_use
+8057705,3/16/2020 1:44pm,Hindi pa nya natatapos ang pagkuha ng litrato.,faq.app_use
+6891965,3/17/2020 11:42am,Hindi cya makapagregister.,faq.bad_service
+9029418,3/19/2020 1:05pm,Hindi nagrereply sa kanya ang chatbot.,faq.bad_service
+9945649,3/19/2020 1:06pm,Hindi nagrereply sa kanya ang chatbot.,faq.bad_service
+3131425,3/19/2020 1:12pm,Hindi nya tinapos ang pagkukuha ng picture.,faq.app_use
+4342365,3/19/2020 1:14pm,Hindi makapagregister.,faq.bad_service
+5215907,3/19/2020 1:16pm,Hindi nya tinapos ang pagkukuha ng picture.,faq.app_use
+9601013,3/19/2020 1:19pm,"Kumuha cya kaagad ng picture ng hindi pa nya pinipindot ang ""Mag-ENROLL pa"".",faq.app_use
+4167629,3/19/2020 1:25pm,"Hindi nya pinindot ang ""Mag-ENROLL pa"".",faq.app_use
+9829066,3/19/2020 1:28pm,Hindi nagrereply ang chatbot sa kanya.,faq.bad_service
+9042475,3/19/2020 1:31pm,Hindi nagrereply ang chatbot sa kanya.,faq.bad_service
+4989380,3/19/2020 1:32pm,Hindi nagrereply ang chatbot sa kanya.,faq.bad_service
+3792657,3/19/2020 1:36pm,Hindi nya tinapos ang pagkukuha ng picture.,faq.app_use
+7829653,3/19/2020 1:48pm,Hindi makapagregister.,faq.bad_service
+2383692,3/19/2020 1:51pm,Hindi nya tinapos ang pagkukuha ng litrato.,faq.app_use
+2294406,3/19/2020 1:54pm,hindi nya tinapos ang pagkukuha ng litrato.,faq.app_use
+5145709,3/19/2020 1:56pm,Hindi nagrereply sa kanya ang chatbot.,faq.bad_service
+9257935,3/19/2020 1:59pm,Hindi nagrereply sa kanya ang chatbot.,faq.bad_service
+9658574,3/19/2020 2:08pm,Hindi nagrereply sa kanya ang chatbot.,faq.bad_service
+2486674,3/19/2020 2:11pm,Hindi nagrereply sa kanya ang chatbot.,faq.bad_service
+8454504,3/19/2020 2:14pm,Hindi nya tinapos ang pagkukuha ng picture.,faq.app_use
+4293550,3/19/2020 2:18pm,Hindi nya tinapos ang pagkukuha ng picture.,faq.app_use
+3434583,3/19/2020 2:34pm,Nag-error yung kinuha nyang litrato.,faq.app_use
+7365868,3/19/2020 2:47pm,Hindi nagrereply sa kanya ag chatbot.,faq.app_use
+8694807,3/24/2020 11:29am,Hindi Makapagregister.,faq.bad_service
+6964380,3/24/2020 11:43am,Hindi makapagregister.,faq.bad_service
+1430437,4/24/2020 3:37pm,Hindi sya makapagregister.,faq.bad_service
+6834345,5/28/2020 2:08pm,Hindi pa nya tapos ang pagkukuha ng picture.,faq.app_use
+7740912,5/28/2020 2:10pm,Hindi nagreresponse si chatbot.,faq.bad_service
+1129752,5/28/2020 2:11pm,Hindi nagreresponse si chatbot.,faq.bad_service
+7797959,5/28/2020 2:13pm,Hindi nagrersponse si chatbot.,faq.bad_service
+8112077,5/28/2020 2:15pm,Hindi nagreresponse si chatbot.,faq.bad_service
+8303669,5/29/2020 3:34pm,Hindi nagreresponse ang chatbot.,faq.bad_service
+4447485,5/29/2020 3:36pm,Hindi nagreresponse ang chatbot.,faq.bad_service
+5735390,5/29/2020 3:42pm,Hindi nya tinapos ang pagkukuha ng litrato.,faq.app_use
+6447862,6/3/2020 10:44am,Hindi nagreresponse ang chatbot.,faq.bad_service
+8817763,6/3/2020 10:46am,Hindi nagreresponse ang chatbot.,faq.bad_service
+8051513,6/9/2020 5:40pm,She can't enroll a policy due to chatbot error ,faq.app_use
+2378761,6/9/2020 5:43pm,Can't enroll a Sagip Plan due to incorrect price ,faq.app_use
+8351990,6/9/2020 5:45pm,Can't enroll a policy due to Chatbot error,faq.app_use
+4456342,6/11/2020 12:00pm,Hindi nya tinapos ang pagkukuha ng picture.,faq.app_use
+6501212,6/11/2020 8:31pm,No response from nanai chatbot after enrolling 2-3 policies. ,faq.bad_service
+4133636,6/17/2020 2:45pm,Nagsesend cya ng picture ng hindi pa clinick yung mag-enroll pa.,faq.app_use
+3071192,6/22/2020 1:01pm,Failed Registration - Wrong Mobile Number ,faq.app_use
+6181193,6/22/2020 1:13pm,Failed Registration - Wrong Mobile Number,faq.app_use
+9207671,6/22/2020 7:42pm,Mobile Number - Update/Change,faq.app_use
+1850827,6/26/2020 1:35pm,Failed Registration - Wrong Mobile Number ,faq.app_use
+7635584,6/26/2020 4:14pm,Failed Registratio.,faq.app_use
+2791409,6/29/2020 9:39pm,Failed Registration,faq.app_use
+7604894,6/30/2020 10:28am,Failed Registration - Wrong Mobile Number ,faq.app_use
+1951727,7/2/2020 1:15pm,Wrong Keyword.,faq.app_use
+8091754,7/3/2020 10:42am,Failed Registration - Wrong Mobile Number ,faq.app_use
+8107455,7/3/2020 10:49am,Failed Registration - Wrong Number ,faq.app_use
+5773942,7/7/2020 2:20pm,Failed Registration - Wrong Mobile Number ,faq.app_use
+1668805,7/13/2020 11:56am,Faile Registration - Wrong Mobile Number (Typo Error) ,faq.app_use
+6508526,7/13/2020 12:01pm,Failed Registration - Wrong info ,faq.app_use
+8537617,7/13/2020 12:06pm,Failed Registration.,faq.bad_service
+6341316,7/16/2020 12:18pm,Invalid Photo  ,faq.app_use
+5408668,7/17/2020 11:14am,Hindi nagreresponse ang chatbot.,faq.bad_service
+9715958,7/27/2020 1:21pm,Failed Registration,faq.app_use
+8902181,7/28/2020 10:42am,Hindi nagreresponse ang chatbot.,faq.bad_service
+4606635,8/6/2020 7:01pm,Adjustment in Registration.,faq.app_use
+2350748,8/27/2020 4:51pm,Hindi nagrereply ang chatbot.,faq.bad_service
+5087114,9/2/2020 10:30am,Failed Registration,faq.bad_service
+1227102,9/10/2020 2:36pm,Hindi maayos ang pagkakakuha ng litrato.,faq.app_use

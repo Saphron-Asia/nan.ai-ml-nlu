@@ -1,0 +1,1112 @@
+Need help please,commonQ.assist,Kailangan ng tulong kung maaari,general.assist
+Need help,commonQ.assist,Kailangan ng tulong,general.assist
+I need some info,commonQ.assist,Kailangan ko ng ilang impormasyon,general.assist
+Will you help me?,commonQ.assist,Maaari niyo ba akong tulungan?,general.assist
+What else can you do?,commonQ.assist,Ano pa ang maaari mong gawin?,general.query
+What do you do?,commonQ.assist,Ano ang ginagawa mo?,general.query
+What can you help me with?,commonQ.assist,Ano ang matutulungan mo sa akin?,general.query
+What can you do?,commonQ.assist,Anong pwede mong gawin?,general.query
+What are you good at?,commonQ.assist,Ano ang mabuti sa iyo?,general.query
+Need help plz,commonQ.assist,Kailangan ng tulong plz.,general.assist
+How can you help me,commonQ.assist,Paano mo ako matutulungan,general.query
+Can you help me?,commonQ.assist,Matutulungan mo ba ako?,general.query
+How can you assist?,commonQ.assist,Paano mo ako matutulungan?,general.query
+How can you help me?,commonQ.assist,Paano mo ako matutulungan?,general.query
+How do you help?,commonQ.assist,Paano ka tumutulong?,general.query
+How to help you?,commonQ.assist,Paano kita matutulungan?,general.query
+How will you assist me?,commonQ.assist,Paano mo matutulungan ako?,general.assist
+i need help,commonQ.assist,kailangan ko ng tulong,general.assist
+Can you tell some info,commonQ.assist,Maaari mo bang sabihin sa ilang impormasyon,general.query
+Help me please,commonQ.assist,Tuliungan mo ako kung maaari,general.assist
+Is this a bot?,commonQ.bot,Ito ba ay isang bot?,general.query
+Is there a bot chatting to me?,commonQ.bot,Mayroon bang bot na nakikipag-chat sa akin?,general.query
+Is it automated message?,commonQ.bot,Ito ba ay automated na mensahe?,general.query
+Computer based pely,commonQ.bot,Computer based na Pely.,general.comment
+Bot or human?,commonQ.bot,Bot o tao?,general.query
+Bot is chatting with me?,commonQ.bot,Bot ba ang nakikipag-chat sa akin?,general.query
+Are you system generated message?,commonQ.bot,Ito ba ay isang system generated na mensahe?,general.query
+Are you robot?,commonQ.bot,Ikaw ba ay isang robot?,general.query
+Are you machine?,commonQ.bot,Ikaw ba ay isang machine?,general.query
+Are you just computer?,commonQ.bot,Ikaw ba ay isa lamang computer?,general.query
+Are you a robot?,commonQ.bot,Ikaw ba ay isang robot?,general.query
+Are you a person?,commonQ.bot,Ikaw ba ay isang tao?,general.query
+Are you a machine?,commonQ.bot,Ikaw ba ay isang makina?,general.query
+Are you a chatbot?,commonQ.bot,Ikaw ba ay isang chatbot?,general.query
+Are you a bot?,commonQ.bot,Ikaw ba ay isang bot?,general.query
+Are these automated messages?,commonQ.bot,Ang mga ito ba ay automated na mensahe?,general.query
+Am I talking to a bot?,commonQ.bot,Nakikipag-usap ba ako sa isang bot?,general.query
+You are a boy are girl?,commonQ.bot,Ikaw ba ay lalaki o babae?,general.query
+You are a bot or human?,commonQ.bot,Ikaw ba ay isang bot o tao?,general.query
+This is a machine?,commonQ.bot,Ito ba ay isang machine?,general.query
+This is a chatbot?,commonQ.bot,Ito ba ay isang chatbot?,general.query
+System generated reply,commonQ.bot,Nabuo ang Sistema ng Sistema,general.comment
+Sir you system generated,commonQ.bot,Ginawa mo ang SIR system.,general.query
+Is this computer based response,commonQ.bot,Ang tugon na ito ba ay computer based?,general.query
+Is this a machine?,commonQ.bot,Ito ba ay isang makina?,general.query
+Are you a human?,commonQ.bot,Tao ka ba?,general.query
+Hows life?,commonQ.how,Hows Life?,general.query
+How was your day?,commonQ.how,Kamusta ang araw mo?,general.query
+How you doin?,commonQ.how,Kumusta ka?,general.query
+Whats up?,commonQ.how,Ano ang up?,general.query
+What's happening?,commonQ.how,Anong nangyayari?,general.query
+Kya chal raha?,commonQ.how,Kya Chal Raha?,general.query
+Wassup?,commonQ.how,Wassup?,general.query
+How you doing?,commonQ.how,Kumusta ka?,general.query
+Are you fine?,commonQ.how,Ayos ka lang ba?,general.query
+Are you good?,commonQ.how,Ikaw ba ay nasa mabuting kalagayan?,general.query
+How are you?,commonQ.how,Kumusta ka?,general.query
+How are you doing?,commonQ.how,Kumusta ka?,general.query
+Only providing my number,commonQ.just_details,Tanging ibibigay ang aking numero,general.comment
+Only providing my email,commonQ.just_details,Tanging ibibigay ang aking email,general.comment
+Only providing my contact details,commonQ.just_details,Tanging ibibigay ang mga detalye ng aking contact,general.comment
+Only here to give my contact,commonQ.just_details,Narito upang ibigay ang aking contact,general.comment
+i am just here to provide my number,commonQ.just_details,Tanging narito upang ibigay ang aking numero,general.comment
+i am just here to provide my details,commonQ.just_details,Tanging narito upang ibigay ang aking mga detalye,general.comment
+Who are youu?,commonQ.name,Sino ka?,general.query
+What can I call you?,commonQ.name,Ano ang maaari kong itawag sa iyo?,general.query
+Your name?,commonQ.name,Pangalan mo?,general.query
+Can you tell me your name?,commonQ.name,Maaari mo bang sabihin sa akin ang iyong pangalan?,general.query
+Are you there?,commonQ.name,Nariyan ka ba?,general.query
+Any one there?,commonQ.name,May tao ba rito?,general.query
+What is your name?,commonQ.name,Ano ang pangalan mo?,general.query
+are you abir?,commonQ.name,ikaw ay abir?,general.query
+Is anyone there?,commonQ.name,May tao ba rito?,general.query
+Your name is?,commonQ.name,Ang iyong pangalan ay?,general.query
+Who is chatting?,commonQ.name,Sino ang nakikipag-chat?,general.query
+Tell me about your self?,commonQ.name,Sabihin mo sa akin ang tungkol sa iyong sarili?,general.query
+Who are you?,commonQ.name,Sino ka?,general.query
+Who am I chatting with?,commonQ.name,Sino ang nakikipag-chat sa akin?,general.query
+What's your name?,commonQ.name,Ano ang iyong pangalan?,general.query
+What should I say as your name?,commonQ.name,Ano ang dapat kong sabihin na iyong pangalan?,general.query
+Tell me your name?,commonQ.name,Sabihin mo saakin ang iyong pangalan?,general.query
+What are you called?,commonQ.name,Ano ang tinatawag sa iyo?,general.query
+No I will not give the information.,commonQ.not_giving,Hindi ko ibibigay ang impormasyon.,general.comment
+No. Cannot give you.,commonQ.not_giving,Hindi. Hindi ko maaaring ibigay sa iyo.,general.comment
+I don't want to tell,commonQ.not_giving,Hindi ko nais sabihin,general.comment
+I don't want to,commonQ.not_giving,Hindi ko nais,general.comment
+I don't think so,commonQ.not_giving,Marahil ay hindi,general.comment
+Don't have it as of now.,commonQ.not_giving,Wala ito sa akin sa ngayon,general.comment
+Cannot tell you,commonQ.not_giving,Hindi maaaring sabihin sa iyo,general.comment
+Won't tell,commonQ.not_giving,Ay hindi magsasabi,general.comment
+Won't give you,commonQ.not_giving,Hindi ibibigay sa iyo,general.comment
+Sorry but I won't,commonQ.not_giving,Paumanhin ngunit hindi,general.comment
+Right now I don't have it.,commonQ.not_giving,Sa ngayon ay wala ito sa akin,general.comment
+I have a question,commonQ.query,may tanong ako,general.query
+Need to ask a query,commonQ.query,Kailangang magtanong,general.query
+I have a question for you,commonQ.query,May tanong ako para sa iyo,general.query
+HAving a query,commonQ.query,Mayroon akong tanong,general.query
+I have a query for you,commonQ.query,Mayroon akong isang query para sa iyo,general.query
+I have a query,commonQ.query,Mayroon akong isang tanong,general.query
+Have a query for you,commonQ.query,Mayroon akong isang tanong para sa iyo,general.query
+Wait for two minutes,commonQ.wait,Maghintay nang dalawang minuto,general.assist
+will you please wait,commonQ.wait,Gusto mo bang maghintay,general.assist
+Can you  please wait,commonQ.wait,Maaari mo bang maghintay,general.assist
+Please wait,commonQ.wait,Mangyaring maghintay,general.assist
+Wait for some time,commonQ.wait,Maghintay ng ilang sandali,general.assist
+Want you to wait for me,commonQ.wait,Nais kong hintayin mo ako,general.assist
+Can you wait for two minutes,commonQ.wait,Maaari lamang na mag-hintay ng dalawang minuto,general.assist
+Connect me to the support of abcd company,contact.contact,Ikonekta ako sa suporta ng abcd kumpanya,general.assist
+I want a call back from you,contact.contact,Nais kong tawagan mo akong muli,general.assist
+Please tell me your tollfree number ?,contact.contact,Mangyaring sabihin sa akin ang iyong tollfree number?,general.assist
+Please tell me your mobile number?,contact.contact,Mangyaring sabihin sa akin ang iyong numero ng mobile?,general.assist
+Address of your company?,contact.contact,Address ng iyong kumpanya?,general.assist
+Address of abcd company?,contact.contact,Address ng abcd kumpanya?,general.assist
+How to reach out to abcd company team?,contact.contact,Paano maabot ang koponan ng kumpanya ng ABCD?,general.assist
+How to get in touch with your team?,contact.contact,Paano makipag-ugnayan sa inyo?,general.assist
+Your team can be reached how?,contact.contact,Paano makipag-ugnayan sa inyo?,general.assist
+Your helpline number?,contact.contact,Ano ang iyong helpline number?,general.assist
+Your company's address?,contact.contact,Ano ang address ng iyong kumpanya?,general.assist
+How to meet you,contact.contact,Paano makipagkita sa iyo?,general.query
+Your email address to reach?,contact.contact,Ano ang iyong email address?,general.query
+You have any branch at kolkata?,contact.contact,Mayroon kang anumang sangay sa Kolkata?,general.query
+How contact representative?,contact.contact,Paano i-contact ang inyong representative?,general.query
+How do i contact you?,contact.contact,Paano ako makikipag-ugnay sa iyo?,general.query
+How to get in touch with the your team?,contact.contact,Paano ako makikipag-ugnay sa iyo?,general.query
+How to contact you?,contact.contact,Paano makipag-ugnay sa iyo?,general.query
+What is your helpline number?,contact.contact,Ano ang numero ng iyong helpline?,general.query
+Which number I should call to reach you?,contact.contact,Aling numero ang dapat kong tawagan upang maabot ka?,general.query
+Which number can I call to discuss?,contact.contact,Aling numero ang maaari kong tawagan para makipag-usap?,general.query
+Which email should I use to reach to you?,contact.contact,Aling email ang dapat kong gamitin upang makausap ka?,general.query
+Which email I must use to reach to you?,contact.contact,Aling email ang dapat kong gamitin upang makausap ka?,general.query
+Give me your number need to speak,contact.contact,"Bigyan mo ako ng iyong numero, kailangan kitang makausap",general.assist
+Give me your mobile no,contact.contact,Bigyan mo ako ng iyong mobile no.,general.query
+Give me the mobile number and i will call you,contact.contact,Bigyan mo ako ng numero ng mobile at tatawagan kita,general.assist
+Email I must use to coordinate with you,contact.contact,Email na dapat kong gamitin upang makipag-ugnayan sa iyo,general.assist
+Getting in touch,contact.contact,Nakikipag-ugnay,general.comment
+I need help. Connect me with support.,contact.contact,Kailangan ko ng tulong. I-konekta ako sa support.,general.assist
+Need a telephonic call,contact.contact,Kailangan ng telephonic call.,general.assist
+Need a person to chat with me,contact.contact,Kailangan ng isang tao upang makipag-chat sa akin,general.assist
+Need human agent,contact.contact,Kailangan ng ahente,general.assist
+Need customer care,contact.contact,Kailangan ang pag-aalaga ng customer,general.assist
+Guide me please regarding the loan?,contact.contact,Gabayan ako tungkol sa loan?,general.assist
+Contact me on my personal number 9999999999,contact.contact,Makipag-ugnay sa akin sa aking personal na numero 9999999999.,general.assist
+Did not solved my query,contact.contact,Hindi nalutas ang aking query,general.comment
+Contact me please,contact.contact,Makipag-ugnay sa akin,general.assist
+Guide me please,contact.contact,Gabayan ako,general.assist
+Call me later,contact.contact,Tawagan mo ako mamaya,general.assist
+Call me at my phone number?,contact.contact,Tawagan ako sa numero ng aking telepono?,general.assist
+999999999 call me now,contact.contact,999999999 Tumawag sa akin ngayon,general.assist
+arrange call for me,contact.contact,Maglaan ng oras upang tawagan ako,general.assist
+call me at my number,contact.contact,tawagan ako sa aking numero,general.assist
+Should I get a call back tomorrow?,contact.contact,Dapat ba akong tumawag pabalik bukas?,general.assist
+Can I call tomorrow?,contact.contact,Maaari ba akong tumawag bukas?,general.assist
+Contact me at my mobile number,contact.contact,Tawagan ako sa aking numero,general.assist
+Call on the mobile number 9999999999,contact.contact,Tumawag sa numero ng aking mobile 9999999999,general.assist
+Call on my phone number 9999999999,contact.contact,Tumawag sa aking numero ng telepono 99999999999.,general.assist
+Contact me at my phone number,contact.contact,Tumawag sa aking numero ng telepono ,general.assist
+Call on 9999999999 now,contact.contact,Tumawag sa 9999999999 ngayon,general.assist
+Please get me human to solve my query?,contact.contact,Mangyaring makakuha ako ng tao upang malutas ang aking query?,general.assist
+Please call me on my number,contact.contact,Mangyaring tawagan ako sa aking numero,general.assist
+Want a person to chat,contact.contact,Nais makipag-usap sa tao,general.assist
+Please contact me now,contact.contact,Mangyaring makipag-ugnay sa akin ngayon,general.assist
+Call me on my number,contact.contact,Tawagan ako sa aking numero ng telepono,general.assist
+Want to chat with a person,contact.contact,Gusto kong makipag-chat sa isang tao,general.assist
+What is your email ID?,contact.contact,Ano ang iyong email id?,general.query
+Need to speak to an executive,contact.contact,Kailangang makipag-usap sa isang executive,general.assist
+Need to get in touch with the your team?,contact.contact,Kailangang makipag-ugnay sa inyong grupo?,general.query
+Need to contact customer care.,contact.contact,Kailangang makausap ang customer care,general.assist
+Need to contact customer care agent.,contact.contact,Kailangang makausap ang customer care agent,general.assist
+Need to contact customer care executive,contact.contact,Kailangang makausap ang ehekutibong customer care,general.assist
+Need to contact customer care agent now please,contact.contact,Kailangang makausap ang customer care agent ngayon,general.assist
+In which number should I reach to you?,contact.contact,Sa aling mga numero maaaring makipag-ugnayan sa iyo?,general.query
+In which number can I reach your team?,contact.contact,Sa aling mga numero maaaring makipag-ugnayan sa iyong grupo?,general.query
+In which email to reach you?,contact.contact,Sa aling mga email maaaring makipag-ugnayan sa iyo?,general.query
+How to reach you ?,contact.contact,Paano makipag-ugnayan sa iyo?,general.query
+can i meet anyone in bank?,contact.contact,May maaari ba akong makausap sa banko?,general.query
+Can I please contact customer care?,contact.contact,Maaari ko bang makausap ang customer care?,general.assist
+can u tell me your Email id ?,contact.contact,Maaari mo bang sabihin sa akin ang iyong email id?,general.query
+Can you provide executive number help,contact.contact,Maaari ka bang magbigay ng ehekutibong number? tulong,general.assist
+Can you share the contact details of the support,contact.contact,Maaari mong ibahagi ang mga detalye ng contact ng suporta,general.assist
+Need to contact you guys,contact.contact,Kailangan na kontakin kayo,general.assist
+Need to get in touch with the Simpler Loan team?,contact.contact,Kailangang makipag-usap sa Simpler Loan na grupo,general.assist
+can i get phone number of your company,contact.contact,Maaari ba akong makakuha ng numero ng telepono ng iyong kumpanya,general.query
+Can I get a telephonic call?,contact.contact,Maaari ba akong makakuha ng isang panteleponong tawag?,general.assist
+I want to speak to executive,contact.contact,Gusto kong makipag-usap sa isang ehekutibo,general.assist
+Is it possible to meet any one in bank,contact.contact,May maaari ba akong makausap sa banko?,general.assist
+I want to speak with you,contact.contact,gusto kitang kausapin,general.assist
+I want to contact concerned people.,contact.contact,Gusto kong kausapin ang mga konsernadong tao,general.assist
+I want to contact your team,contact.contact,Gusto kong makipag-ugnayan sa iyong grupo,general.assist
+I want to talk to you,contact.contact,gusto kitang makausap,general.assist
+I want to talk to customer care executive,contact.contact,Gusto kong makipag-usap sa ehekutibo ng customer care ,general.assist
+How to reach out to your team?,contact.contact,Paano makipag-ugnayan sa inyong grupo?,general.query
+Email I can use to reach you?,contact.contact,Email na maaaring gamitin upang makipag-ugnayan sa iyo?,general.query
+Do you have any branch?,contact.contact,Mayroon ka bang sangay?,general.query
+Customer support?,contact.contact,Suporta sa Customer?,general.assist
+Customer service?,contact.contact,Serbisyo ng Customer?,general.assist
+Please call me at my number,contact.contact,Mangyaring tawagan ako sa aking numero,general.assist
+No answering correctly,contact.contact,Walang sagot nang tama,general.comment
+Need to contact your team,contact.contact,Kailangang makipag-ugnay sa iyong grupo,general.assist
+Need to contact human,contact.contact,Kailangang makipag-usap sa tao,general.assist
+How to get in touch with customer service?,contact.contact,Paano makipag-ugnayan sa customer service?,general.query
+What is your customer care no. ?,contact.contact,Ano ang iyong pangangalaga sa customer no. ?,general.assist
+Number I can call to discuss,contact.contact,Numero na maaaring tawagan upang makipag-usap,general.assist
+What is your toll free number,contact.contact,Ano ang iyong libreng numero ng toll,general.query
+What's the Email ID of abcd company,contact.contact,Ano ang email id ng kumpanya ng ABCD.,general.query
+Where are your branches?,contact.contact,Nasaan ang iyong mga branches?,general.query
+Where is your office located?,contact.contact,Saan matatagpuan ang iyong opisina?,general.query
+Where is your office?,contact.contact,Nasaan ang iyong opisina?,general.query
+Kindly send you are mobile no or email IDentification,contact.contact,Ipadala ang mobile no. o email identification,general.assist
+i wish to talk with representative,contact.contact,Nais kong makipag-usap sa kinatawan,general.assist
+Kindly send your customer care no,contact.contact,Pinapayuhan ipadala ang iyong customer care no,general.assist
+Let me speak with an executive,contact.contact,Hayaan akong makipag-usap sa isang ehekutibo,general.assist
+Need to contact concerned persons,contact.contact,Kailangang i-contact ang mga nababahalang tao,general.assist
+Want to meet your executive,contact.contact,Nais makita ang iyong ehekutibo,general.assist
+want to talk to executive,contact.contact,nais na makipag-usap sa ehekutibo,general.assist
+What are the customer care contact?,contact.contact,Ano ang contact ng customer care?,general.query
+What is email ID of your company?,contact.contact,Ano ang email id ng iyong kumpanya?,general.query
+What is the toll free number of abcd company,contact.contact,Ano ang libreng bilang ng kumpanya ng ABCD Company,general.query
+What is the toll free number,contact.contact,Ano ang libreng numero ng toll.,general.query
+What is the nearest branch?,contact.contact,Ano ang pinakamalapit na sangay?,general.query
+What is the email address to reach you?,contact.contact,Ano ang email address upang maabot ka?,general.query
+How can your team be reached?,contact.contact,Paano makipag-ugnayan sa inyong grupo?,general.query
+How can the abcd company team be reached?,contact.contact,Paano makipag-ugnayan sa kompanyang abcd?,general.query
+How can I speak to an executive,contact.contact,Paano ako makapagsalita sa isang ehekutibo,general.query
+How can I reach your team for a query?,contact.contact,Paano ko maabot ang iyong grupo para sa isang query?,general.query
+How can I contact you?,contact.contact,Paano ako makikipag-ugnay sa iyo?,general.query
+Give your contact number.,contact.contact,Ibigay ang iyong mga contact number.,general.assist
+abcd company team can be reached how?,contact.contact,Paano makipag-ugnayan sa abcd company?,general.query
+abcd company email address?,contact.contact,Email address ng abcd company?,general.query
+abcd company office is located where?,contact.contact,Matatagpuan ang tanggapan ng kumpanya ng ABCD kung saan?,general.query
+Any branch at delhi?,contact.contact,May mga branch sa delhi?,general.query
+Want to meet the executive for loan information,contact.contact,Nais makipag-usap sa ehekutibo para sa impormasyon sa utang,general.assist
+Want to communicate. So give me your number,contact.contact,Nais makipag-usap. Kaya bigyan mo ako ng iyong numero,general.assist
+To reach you which email address?,contact.contact,Aling email address upang makipag-ugnayan sa inyo?,general.query
+Tell me the number in which I could reach?,contact.contact,Sabihin mo sa akin ang numero kung saan maaari kang maabot?,general.query
+Please send your number,contact.contact,Mangyaring ipadala ang iyong numero,general.assist
+Please provide phone no.,contact.contact,Mangyaring magbigay ng phone no.,general.assist
+Please provide me the to contact person,contact.contact,Mangyaring bigyan ako ng upang makipag-ugnay sa tao,general.assist
+Pease tell mobile number. I need to speak,contact.contact,PEASE sabihin ang numero ng mobile. Kailangan kong makipag-usap,general.assist
+Please provide me the real person,contact.contact,Mangyaring bigyan ako ng tunay na tao,general.assist
+Please give your mobile no or email ID,contact.contact,Mangyaring ibigay ang iyong mobile no o email ID,general.assist
+Number to reach you,contact.contact,Numero upang makipag-ugnayan sa iyo,general.query
+Need to chat with human,contact.contact,Kailangan makipag-chat sa tao,general.assist
+i want to know your office address in punjab?,contact.contact,Nais kong malaman ang iyong address sa punjab,general.query
+Lost Aadhaar,faq.aadhaar_missing,Nawala ang Aadhaar.,general.comment
+"I currently don't have Aadhaar card, What can I do?",faq.aadhaar_missing,"Sa kasalukuyan ay wala akong Aadhaar card, ano ang magagawa ko?",general.query
+I do not have aadhaar card can I apply for loan,faq.aadhaar_missing,Wala akong Aadhaar card maaari ba akong mag-aplay para sa pautang,general.query
+i do not have addhar card can I get loan,faq.aadhaar_missing,wala akong addhar card ang maaari ba akong makakuha ng loan,general.query
+I do not have an Aadhaar Card. What should I do?,faq.aadhaar_missing,Wala akong Aadhaar Card. Anong gagawin ko?,general.query
+If Aadhaar card goes missing would I be able to give my application?,faq.aadhaar_missing,"Kung nawala ang aking Aadhaar card, maaari pa rin ba akong magpasa ng aplikasyon?",general.query
+If my Aadhaar card is lost can I still submit my application?,faq.aadhaar_missing,Kung ang aking Aadhaar card ay nawala maaari ko pa rin bang isumite ang aking aplikasyon?,general.query
+I lost my aadhaar can I still apply?,faq.aadhaar_missing,Nawala ko ang aking Aadhaar maaari pa rin ba akong mag-apply?,general.query
+Is Aadhaar card mandatory for filling the loan application?,faq.aadhaar_missing,Kailangan ba ang Aadhaar card upang magpasa ng aplikasyon sa pautang?,general.query
+Is it compulsory to give Aadhaar card for the sanction of this loan?,faq.aadhaar_missing,Sapilitan bang ibibigay ang Aadhaar card para sa kapahintulutan ng pautang na ito?,general.query
+Is it mandatory to give Aadhaar card for loan?,faq.aadhaar_missing,Sapilitan bang ibibigay ang Aadhaar card upang mapautang?,general.query
+No Aadhaar,faq.aadhaar_missing,Walang aadhaar,general.comment
+No Aadhaar. Can I apply?,faq.aadhaar_missing,Walang aadhaar. Maaari ba akong mag-aplay?,general.query
+No aadhaar. Can I still get the loan?,faq.aadhaar_missing,Walang Aadhaar. Maaari pa rin ba akong makakuha ng mga pautang?,general.query
+No aadhaar here. Can I still get a loan?,faq.aadhaar_missing,Walang Aadhaar dito. Maaari pa rin ba akong makakuha ng isang loan?,general.query
+No aadhaar here. Can I submit application?,faq.aadhaar_missing,Walang aadhaar dito. Maaari ba akong magsumite ng aplikasyon?,general.query
+Not having aadhaar. What to do?,faq.aadhaar_missing,Hindi pagkakaroon Aadhaar. Anong gagawin ko?,general.query
+Without the aadhaar get I still get loan?,faq.aadhaar_missing,Kung wala ang Aadhaar maaari pa rin ba akong makakuha ng loan?,general.query
+Without having Aadhaar card can I submit my application?,faq.aadhaar_missing,"Nang hindi na kinakailangang Aadhaar card, maaari ko bang isumite ang aking aplikasyon?",general.query
+What should I do if i don't have Aadhaar card?,faq.aadhaar_missing,Ano ang dapat kong gawin kung wala akong Aadhaar card?,general.query
+What can I do if I lost Aadhaar card?,faq.aadhaar_missing,Ano ang maaari kong gawin kung nawala ko ang Aadhaar card?,general.query
+What can I do if I don't have Aadhaar card?,faq.aadhaar_missing,Ano ang maaari kong gawin kung wala akong aadhaar card?,general.query
+What are my options if I don't have the  Aadhaar card?,faq.aadhaar_missing,Ano ang aking mga pagpipilian kung wala akong aadhaar card?,general.query
+Tell me can you give me a loan without the Aadhaar card?,faq.aadhaar_missing,"Sabihin mo sa akin, maaari ka bang magbigay sa akin ng isang pautang na walang Aadhaar card?",general.query
+Aadhaar card is lost can I still submit my application?,faq.aadhaar_missing,Ang Aadhaar card ay nawala maaari pa rin akong isumite ang aking aplikasyon?,general.query
+Aadhaar card is missing.,faq.aadhaar_missing,Nawawala ang Aadhaar card.,general.comment
+"Aadhaar card is missing, What to do?",faq.aadhaar_missing,"Nawawala ang Aadhaar card, ano ang gagawin?",general.query
+"Aadhaar is lost, what else can I do?",faq.aadhaar_missing,"Aadhaar ay nawala, ano pa ang maaari kong gawin?",general.query
+can I apply for loan even if I do not have addhar card?,faq.aadhaar_missing,Kung wala ang Aadhaar maaari pa rin ba akong makakuha ng loan?,general.query
+Can I apply without having Aadhaar card?,faq.aadhaar_missing,Maaari ba akong mag-apply nang walang aadhaar card?,general.query
+Can I get loan without the Aadhaar card?,faq.aadhaar_missing,Maaari ba akong makakuha ng pautang nang walang aadhaar card?,general.query
+Can I still get loan even without aadhaar?,faq.aadhaar_missing,Maaari pa ba akong makakuha ng pautang kahit na walang aadhaar?,general.query
+Can I submit my application even if I dont have Aadhaar card,faq.aadhaar_missing,Maaari ba akong mag-sumite ng aking application kahit na wala akong Aadhaar card,general.query
+"Don't have Aadhaar card, Tell me what should I do?",faq.aadhaar_missing,"Wala akong Aadhaar card, ano ang dapat kong gawin?",general.query
+How to get loan without Aadhaar card?,faq.aadhaar_missing,Paano makakuha ng pautang na walang Aadhaar card?,general.query
+What address proof can I provide?,faq.address_proof,Anong katunayan ng address ang maaari kong ibigay?,general.query
+Types of address proofs I can give?,faq.address_proof,Anong mga uri ng katunayan ng address ang maaaring kong ibigay?,general.query
+The types of proofs of address. Which I can give.,faq.address_proof,Ang mga uri ng mga katibayan ng address. Na maaari kong ibigay.,general.query
+The proofs of address that I need to submit.,faq.address_proof,Ang mga katibayan ng address na kailangan kong isumite.,general.query
+The business address proofs I can upload in the application?,faq.address_proof,Ang katunayan ng address ng negosyo na maaari kong i-upload sa application?,general.query
+The bills to be uploaded for proving the address?,faq.address_proof,Anong mga dokumento ang kailangang ibigay upang mapatunayan ang address?,general.query
+The address proofs that can be uploaded in application?,faq.address_proof,Ang mga patunay ng address na maaaring i-upload sa application?,general.query
+The address proofs that are needed in this application?,faq.address_proof,Anong dokumento ang magpapatunay ng address sa aplikasyon?,general.query
+Need to provide which address proofs?,faq.address_proof,Kailangang magbigay ng patunay ng address?,general.query
+In application which address proofs can be uploaded?,faq.address_proof,"Sa aplikasyon, anong patunay ng address ang maaaring i-upload?",general.query
+For proving the address what is the proofs I can upload?,faq.address_proof,"Upang mapatunayan ang address, aling mga patunay ang maaaring i-upload?",general.query
+For proving my address what address I need to give?,faq.address_proof,"Upang mapatunayan ang aking address, aling mga patunay ang maaaring i-upload?",general.query
+For proof of my address which bills do you need?,faq.address_proof,"Para sa patunay ng aking address, aling mga dokumento ang iyong kailangan?",general.query
+For address proof what bills can I upload?,faq.address_proof,"Upang mapatunayan ang aking address, aling mga patunay ang maaaring i-upload?",general.query
+For address proof what bills can Igive?,faq.address_proof,"Upang mapatunayan ang aking address, aling mga dokumento ang maaari kong ibigay?",general.query
+The personal address information I can upload in the application?,faq.address_proof,Ang impormasyon ng personal na address na maaari kong i-upload sa application?,general.query
+personal address proofs I'll have to provide?,faq.address_proof,Katunayan ng aking address ang kailangang ibigay?,general.query
+personal address proofs I need to give?,faq.address_proof,Katunayan ng aking address ang kailangang ibigay?,general.query
+personal address proofs I need to upload?,faq.address_proof,Katunayan ng aking address ang kailangang i-upload?,general.query
+Please tell me what are different personal address proofs I can upload in this application?,faq.address_proof,Mangyaring sabihin sa akin kung ano ang iba't ibang mga personal na patunay ng address na maaari kong i-upload sa application na ito?,general.query
+Personal proofs to be added in application?,faq.address_proof,Personal na patunay na idadagdag sa application?,general.query
+Personal proofs added on application?,faq.address_proof,Idinagdag ang mga personal na proofs sa application?,general.query
+Tell me what are the personal address proofs I can upload in the application?,faq.address_proof,Sabihin mo sa akin kung ano ang mga personal address proofs na maaari kong i-upload sa application?,general.query
+Which personal address proofs can I upload in the application?,faq.address_proof,Aling personal address proofs ang maaari kong i-upload sa application?,general.query
+What types of personal address proofs can I provide?,faq.address_proof,Anong mga uri ng mga personal na address proofs ang maaari kong ibigay?,general.query
+What types of personal address information can I upload as part of the application?,faq.address_proof,Anong mga uri ng impormasyon sa personal na address ang maaari kong i-upload bilang bahagi ng application?,general.query
+What personal address can I give for my address,faq.address_proof,Ano ang personal na address ang maaari kong ibigay para sa aking address,general.query
+What are the personal address proofs I can upload in the application?,faq.address_proof,Ano ang mga personal na patunay ng address na maaari kong i-upload sa application?,general.query
+The personal address proofs I can upload in the application?,faq.address_proof,Ang mga personal na address proofs na maaari kong i-upload sa application?,general.query
+Address information I can upload in the application?,faq.address_proof,Impormasyon sa address na maaari kong i-upload sa application?,general.query
+Address proof I have to provide,faq.address_proof,Address patunay na kailangan kong ibigay,general.query
+Address proofs I can upload in the application?,faq.address_proof,Address Proofs Maaari kong i-upload sa application?,general.query
+Address proofs I'll have to provide?,faq.address_proof,Address proofs na kailangan kong ibigay?,general.query
+Address proofs I need to give?,faq.address_proof,Address proofs na kailangan kong ibigay?,general.query
+Address proofs I need to upload?,faq.address_proof,Address proofs na kailangan kong i-upload?,general.query
+Bills for proof of address?,faq.address_proof,Bill para sa patunay ng address?,general.query
+Bills I can give for address proof?,faq.address_proof,Bill maaari kong ibigay para sa address proof?,general.query
+Bills I can upload for proof of my address?,faq.address_proof,Bills Maaari kong i-upload para sa patunay ng aking address?,general.query
+Bills that I can give for the address proof?,faq.address_proof,Bill na maaari kong ibigay para sa patunay ng address?,general.query
+Bills to give for proof of address?,faq.address_proof,Bill upang magbigay para sa patunay ng address?,general.query
+Bills to give for proving the address,faq.address_proof,Bill upang bigyan ng patunay ang address?,general.query
+Bills you need to address proof?,faq.address_proof,Bill na kailangan mo upang matugunan ang patunay?,general.query
+personal address proofs can I give in the application?,faq.address_proof,Personal Address Proofs Maaari ba akong Magbigay sa Application?,general.query
+personal address information I can upload in the application?,faq.address_proof,Impormasyon sa personal na address na maaari kong i-upload sa application?,general.query
+For the application what are the personal adresss information I can upload?,faq.address_proof,Para sa application kung ano ang impormasyon ng personal adresss maaari kong i-upload?,general.query
+Different personal address proofs I can upload in this loan application?,faq.address_proof,Iba't ibang Personal na Address Proofs Maaari ba akong mag-upload sa application na ito ng pautang?,general.query
+In loan application what are diifferent personal address proofs ?,faq.address_proof,Sa loan application ano ang mga iba't-ibang patunay ng personal na address?,general.query
+home or personal address proofs can I upload as part of the application?,faq.address_proof,Home o Personal Address Proofs Maaari ba akong mag-upload bilang bahagi ng application?,general.query
+For the application what are the personal adresss proofs I can upload?,faq.address_proof,Para sa mga application ano ang mga patunay ng personal na adresss ang maaari kong i-upload?,general.query
+Which address proof should I give to you?,faq.address_proof,Aling patunay ng address ang dapat kong ibigay sa iyo?,general.query
+Which address proofs do I need to provide?,faq.address_proof,Aling patunay ng address ang kailangan kong ibigay?,general.query
+Which address proofs do I need to give?,faq.address_proof,Aling patunay ng address ang kailangan kong ibigay?,general.query
+Which address proof do you need from me?,faq.address_proof,Aling patunay ng address ang kailangan mo mula sa akin?,general.query
+What to upload for proving my address?,faq.address_proof,Ano ang mag-upload para sa pagpapatunay ng aking address?,general.query
+what bills to give for address proof?,faq.address_proof,Anong mga perang papel ang ibibigay para sa katibayan ng address?,general.query
+What are the types of address proofs I need to give?,faq.address_proof,Ano ang mga uri ng mga katibayan ng address na kailangan kong ibigay?,general.query
+What address proofs are accepted?,faq.address_proof,Ano ang mga tinatanggap na katibayan ng address?,general.query
+Types of address proofs that can be uploaded?,faq.address_proof,Mga uri ng mga katibayan ng address na maaaring i-upload?,general.query
+Personal address proofs can I provide in loan application?,faq.address_proof,Patunay ng personal na tirahan ang maaaring ibigay sa aplikasyon ng pautang?,general.query
+Process of application process for getiing the loan?,faq.application_process,Proseso ng aplikasyon upang makuha ang pautang?,general.query
+Process of abcd company direct applying?,faq.application_process,Proseso ng abcd kompanya sa diretsong pautang?,general.query
+Process of abcd company direct application process for getiing the loan?,faq.application_process,Proseso ng abcd kompanya sa diretsong pautang?,general.query
+Process of abcd company direct application?,faq.application_process,Proseso ng abcd kompanya sa diretsong aplikasyon?,general.query
+Process for applying for this loan?,faq.application_process,Proseso para sa pag-aaplay para sa utang na ito?,general.query
+Process for applying for abcd company direct?,faq.application_process,Proseso para sa pag-aaplay para sa direktang kumpanya ng ABCD?,general.query
+Procedure to take loan?,faq.application_process,Pamamaraan upang kumuha ng pautang?,general.query
+Procedure to have finance?,faq.application_process,Pamamaraan upang magkaroon ng pananalapi?,general.query
+procedure to get finance for business?,faq.application_process,Pamamaraan upang makakuha ng pananalapi para sa negosyo?,general.query
+procedure to get finance?,faq.application_process,Pamamaraan upang makakuha ng pananalapi?,general.query
+Procedure to apply for loan?,faq.application_process,Pamamaraan na mag-aplay para sa utang?,general.query
+procedure of this loan application procedure for getiing the loan?,faq.application_process,Proseso ng aplikasyon upang makuha ang pautang?,general.query
+Please tell How can I apply for abcd company direct?,faq.application_process,Mangyaring sabihin kung paano ako mag-aplay para sa direktang kumpanya ng ABCD?,general.query
+Please tell me the process for getting the loan?,faq.application_process,Mangyaring sabihin sa akin ang proseso para sa pagkuha ng utang?,general.query
+Please tell me the process in order to apply for abcd company direct?,faq.application_process,Mangyaring sabihin sa akin ang proseso upang mag-aplay para sa direktang kumpanya ng ABCD?,general.query
+Please tell me the ways for applying for abcd company direct?,faq.application_process,Mangyaring sabihin sa akin ang mga paraan para mag-aplay para sa direktang kumpanya ng ABCD?,general.query
+procedure of abcd company direct application procedure for getting the loan?,faq.application_process,Proseso ng direktang aplikasyon ng ABCD para sa pagkuha ng utang?,general.query
+Procedure for loan sanction,faq.application_process,Proseso para sa kapahintulutan ng pautang,general.query
+procedure for applying for simplerloan?,faq.application_process,Proseso para sa pag-aaplay para sa simplerloan?,general.query
+procedure for applying for abcd company direct?,faq.application_process,Proseso para sa pag-aaplay para sa direktang kumpanya ng ABCD?,general.query
+Please tell the process of abcd company direct application to get loan?,faq.application_process,Mangyaring sabihin sa proseso ng direktang application ng kumpanya ng ABCD upang makakuha ng pautang?,general.query
+Please tell the process for registering abcd company direct?,faq.application_process,Mangyaring sabihin sa proseso para sa pagrehistro ng direktang kumpanya ng ABCD?,general.query
+Please tell the process for applying this loan?,faq.application_process,Mangyaring sabihin sa proseso para sa pag-aplay ng utang na ito?,general.query
+Please tell the process for applying abcd company direct?,faq.application_process,Mangyaring sabihin ang proseso para sa pag-aaplay ng direktang kumpanya ng ABCD?,general.query
+Please tell the procedure of this loan application to get loan?,faq.application_process,Mangyaring sabihin ang proseso ng aplikasyon ng pautang na ito upang makakuha ng pautang?,general.query
+Please tell the procedure of application to get loan?,faq.application_process,Mangyaring sabihin ang proseso ng application upang makakuha ng pautang?,general.query
+Please tell the procedure of abcd company direct application to get loan?,faq.application_process,Mangyaring sabihin ang proseso ng direktang application ng ABCD kumpanya upang makakuha ng pautang?,general.query
+Can you please tell me the process of abcd company direct application?,faq.application_process,Maaari mo bang sabihin sa akin ang proseso ng direktang aplikasyon ng kumpanya ng ABCD?,general.query
+Can you please tell me what are the ways to apply for abcd company direct?,faq.application_process,Maaari mo bang sabihin sa akin kung ano ang mga paraan upang mag-aplay para sa direktang kumpanya ng ABCD?,general.query
+Can you please tell me what are the ways to register for abcd company direct?,faq.application_process,Maaari mo bang sabihin sa akin kung ano ang mga paraan upang magparehistro para sa direktang kumpanya ng ABCD?,general.query
+For sanction of loan what is the process?,faq.application_process,Para sa kapahintulutan ng utang ano ang proseso?,general.query
+For taking the loan what is the process?,faq.application_process,Para sa pagkuha ng utang ano ang proseso?,general.query
+For the loan requirement what is the process?,faq.application_process,Para sa pangangailangan ng utang ano ang proseso?,general.query
+Guide me the loan process,faq.application_process,Patnubayan mo ako ng proseso ng pautang.,general.assist
+Please tell the procedure for applying abcd company direct?,faq.application_process,Mangyaring sabihin ang pamamaraan para sa pag-aaplay ng direktang kumpanya ng ABCD?,general.query
+Please tell me the ways for registering for abcd company direct?,faq.application_process,Mangyaring sabihin sa akin ang mga paraan para magparehistro para sa direktang kumpanya ng ABCD?,general.query
+Can you please tell me the procedure of this loan application?,faq.application_process,Maaari mo bang sabihin sa akin ang proseso ng aplikasyon ng pautang na ito?,general.query
+I want Business loan for amount 2 lacks how can I proceed?,faq.application_process,Gusto ko ng pautang sa negosyo para sa halaga 2 lacks kung paano ako magpatuloy?,general.query
+I want Business loan for amount 2 lacks how to proceed?,faq.application_process,Gusto ko ng pautang sa negosyo para sa halaga 2 lacks kung paano ako magpatuloy?,general.query
+Would like to know how can I get loan?,faq.application_process,Gusto kong malaman kung paano ako makakakuha ng pautang?,general.query
+With the process of loan please guide me,faq.application_process,Gamit ang proseso ng utang mangyaring gabayan ako,general.query
+Where can I register for a abcd company direct?,faq.application_process,Saan ako maaaring magparehistro para sa direktang kumpanya ng ABCD?,general.query
+Where can I apply for a abcd company direct?,faq.application_process,Saan ako maaaring mag-aplay para sa direktang kumpanya ng ABCD?,general.query
+this loan mobile application process?,faq.application_process,Ang proseso ng mobile application ng utang na ito?,general.query
+To get loan how to I sign up?,faq.application_process,Upang makakuha ng pautang kung paano ako mag-sign up?,general.query
+how to get loan,faq.application_process,Paano kumuha ng pautang,general.query
+How to fill the loan application,faq.application_process,Paano punan ang application ng pautang.,general.query
+How to fill the application?,faq.application_process,Paano punan ang application?,general.query
+How to do the loan application?,faq.application_process,Paano gawin ang aplikasyon ng pautang?,general.query
+How to apply for loan ?,faq.application_process,Paano mag-aplay para sa utang?,general.query
+how to apply for loan,faq.application_process,Paano mag-aplay para sa utang,general.query
+How to apply for business loan?,faq.application_process,Paano mag-aplay para sa pautang sa negosyo?,general.query
+How to apply for abcd company direct loan?,faq.application_process,Paano mag-aplay para sa direktang utang ng kumpanya ng ABCD?,general.query
+How to apply?,faq.application_process,Paano mag-apply?,general.query
+How I will get loan?,faq.application_process,Paano ako makakakuha ng pautang?,general.query
+How is the process to apply for this loan?,faq.application_process,Paano ang proseso para sa utang na ito?,general.query
+I want to know the procedure for loan,faq.application_process,Gusto kong malaman ang pamamaraan para sa utang,general.query
+Can you please tell me the procedure of application?,faq.application_process,Maaari mo bang sabihin sa akin ang proseso ng aplikasyon?,general.query
+Can you please tell me process for the loan?,faq.application_process,Maaari mo bang sabihin sa akin ang proseso para sa utang?,general.query
+Can you please tell me about process of abcd company direct application?,faq.application_process,Maaari mo bang sabihin sa akin ang tungkol sa proseso ng direktang aplikasyon ng kumpanya ng ABCD?,general.query
+Can you please tell me about procedure of abcd company direct application?,faq.application_process,Maaari mo bang sabihin sa akin ang tungkol sa proseso ng direktang aplikasyon ng kumpanya ng ABCD?,general.query
+CAn I get your application form?,faq.application_process,Maaari ko bang makuha ang iyong application form?,general.query
+As I want a new loan what is the procedure for that?,faq.application_process,Gusto ko ng isang bagong utang ano ang pamamaraan para rito?,general.query
+abcd company direct registering process?,faq.application_process,Direktang pagpaparehistro ng kumpanya ng ABCD?,general.query
+abcd company direct online applying process?,faq.application_process,ABCD Company Direct Online Apply Proseso?,general.query
+abcd company direct online applying procedure?,faq.application_process,ABCD Company Direktang Online Applying Procedure?,general.query
+abcd company direct moblie application process?,faq.application_process,ABCD Company Direct Moblie application process?,general.query
+abcd company direct moblie application procedure?,faq.application_process,ABCD Company Direct Moblie Application Procedure?,general.query
+abcd company direct applying process?,faq.application_process,Direktang pag-apply ng kumpanya ng ABCD?,general.query
+abcd company direct applying procedure?,faq.application_process,Direktang pag-apply ng kumpanya ng ABCD?,general.query
+abcd company direct applying how?,faq.application_process,Direktang pag-apply ng kumpanya ng ABCD Paano?,general.query
+abcd company direct application process?,faq.application_process,ABCD Company Direct Application Process?,general.query
+abcd company direct application procedure?,faq.application_process,ABCD Company Direct Application Procedure?,general.query
+How do I proceed for loan,faq.application_process,Paano ako magpatuloy para sa utang,general.query
+How to proceed for loan,faq.application_process,Paano Magpatuloy para sa Pautang.,general.query
+How should I proceed for loan?,faq.application_process,Paano ako dapat magpatuloy para sa pautang?,general.query
+I want to know how does this application work?,faq.application_process,Gusto kong malaman kung paano gumagana ang application na ito?,general.query
+I want loan what's the process?,faq.application_process,Gusto kong umutang Ano ang proseso?,general.query
+I need to know what is process of loan for a new business,faq.application_process,Kailangan kong malaman kung ano ang proseso ng utang para sa isang bagong negosyo,general.query
+I need loan tell me the process?,faq.application_process,Kailangan ko ng pautang sabihin sa akin ang proseso?,general.query
+I need loan so what is the process?,faq.application_process,Kailangan ko ng utang kaya ano ang proseso?,general.query
+I need a loan. How to get it??,faq.application_process,Kailangan ko ng pautang. Paano makuha ito ??,general.query
+"I have a business, what is the paper work for taking this loan facility?",faq.application_process,"Mayroon akong isang negosyo, ano ang mga dokumento para sa pagkuha ng pasilidad ng utang na ito?",general.query
+How would one apply for abcd company direct?,faq.application_process,Paano mag-aplay ang isang tao para sa direktang kumpanya ng ABCD?,general.query
+How will I get loan?,faq.application_process,Paano ako makakakuha ng pautang?,general.query
+What's the abcd company direct applying procedure for taking the loan?,faq.application_process,Ano ang proseso ng abcd kumpanya para sa diretsong pagkuha ng pautang?,general.query
+What's the abcd company direct applying process for taking the loan?,faq.application_process,Ano ang proseso ng abcd kumpanya para sa diretsong pagkuha ng pautang?,general.query
+What's the applying process for the loan?,faq.application_process,Ano ang proseso nang pag-aaplay para sa pautang?,general.query
+What's the loan process?,faq.application_process,Ano ang proseso ng pautang?,general.query
+Whats the loan process?,faq.application_process,Ano ang proseso ng pautang?,general.query
+What's the procedure for applying abcd company direct?,faq.application_process,Ano ang proseso para sa pag-aaplay ng direktang kumpanya ng ABCD?,general.query
+What's the procedure for registering abcd company direct?,faq.application_process,Ano ang proseso para sa pagrerehistro ng direktang kumpanya ng ABCD?,general.query
+What's the procedure to start new businesses?,faq.application_process,Ano ang proseso upang magsimula ng bagong negosyo?,general.query
+What's the process for applying this loan?,faq.application_process,Ano ang proseso para sa pag-aaplay sa pautang na ito?,general.query
+What's the process for registering abcd company direct?,faq.application_process,Ano ang proseso para sa pagrehistro ng direktang kumpanya ng ABCD?,general.query
+What to do for loan application?,faq.application_process,Ano ang gagawin para sa aplikasyon ng pautang?,general.query
+Help me with the loan procedure,faq.application_process,Tulungan mo ako sa proseso ng pautang.,general.assist
+Guide me through the process of loan?,faq.application_process,Gabayan ako sa proseso ng utang?,general.assist
+How apply for abcd company direct loan?,faq.application_process,Paano naaangkop ang direktang utang ng kumpanya ng ABCD?,general.query
+How will get loan,faq.application_process,Paano makakakuha ng utang,general.query
+How to start application for loan?,faq.application_process,Paano magsimula ng aplikasyon para sa pautang?,general.query
+How to I sign up to get the loan,faq.application_process,Paano ako mag-sign up upang makuha ang utang,general.query
+How to I sign up for the process of loan,faq.application_process,Paano ako mag-sign up para sa proseso ng utang,general.query
+Can you please tell me the process?,faq.application_process,Maaari mo bang sabihin sa akin ang proseso?,general.query
+To get this loan what is the process?,faq.application_process,"Upang makuha ang utang na ito, ano ang proseso?",general.query
+want to know how is the application process?,faq.application_process,Gusto kong malaman kung paano ang proseso ng aplikasyon?,general.query
+Want to know procedure for loan?,faq.application_process,Gusto kong malaman ang proseso para sa utang?,general.query
+Want to know the application procedure,faq.application_process,Gusto kong malaman ang proseso ng application.,general.query
+want to know the procedure for application,faq.application_process,Gusto kong malaman ang proseso ng application.,general.query
+Want to know the procedure of this loan?,faq.application_process,Gusto kong malaman ang proseso ng pautang na ito?,general.query
+Want to know the process of loan application,faq.application_process,Gusto kong malaman ang proseso ng pautang na ito?,general.query
+Want to know the process to start new business,faq.application_process,Gusto kong malaman ang proseso upang magsimula ng bagong negosyo,general.query
+What are steps to get the loan?,faq.application_process,Ano ang mga hakbang upang makuha ang utang?,general.query
+How do I sign up for the loan,faq.application_process,Paano ako mag-sign up para sa utang,general.query
+How to I sign up,faq.application_process,Paano ako mag-sign up,general.query
+How to get the loan?,faq.application_process,Paano makuha ang utang?,general.query
+What's the process for applying abcd company direct?,faq.application_process,Ano ang proseso para sa pag-aaplay ng direktang kumpanya ng ABCD?,general.query
+What are the details to apply for the loan?,faq.application_process,Ano ang mga detalye para mag-aplay sa utang?,general.query
+What are the ways to apply for abcd company direct?,faq.application_process,Ano ang mga paraan upang mag-aplay para sa direktang kumpanya ng ABCD?,general.query
+What are the ways to register for abcd company direct?,faq.application_process,Ano ang mga paraan upang magparehistro para sa direktang kumpanya ng ABCD?,general.query
+What is Loan procedure?,faq.application_process,Ano ang loan procedure?,general.query
+What is the application process?,faq.application_process,Ano ang proseso ng aplikasyon?,general.query
+What is the applying process?,faq.application_process,Ano ang proseso ng paga-aplay?,general.query
+What is the procedure for this loan?,faq.application_process,Ano ang proseso para sa utang na ito?,general.query
+What is the procedure to get finance,faq.application_process,Ano ang proseso upang makakuha ng pananalapi,general.query
+What is the process and paper work for taking this loan?,faq.application_process,Ano ang proseso at dokumento para sa pagkuha ng utang na ito?,general.query
+What is the process for getting finance?,faq.application_process,Ano ang proseso para sa pagkuha ng pananalapi?,general.query
+What is the process for getting the loan?,faq.application_process,Ano ang proseso para sa pagkuha ng utang?,general.query
+What is the process for the sanction of loan?,faq.application_process,Ano ang proseso para sa kapahintulutan ng utang?,general.query
+What is the process of applying for abcd company direct?,faq.application_process,Ano ang proseso ng pag-aaplay para sa direktang kumpanya ng ABCD?,general.query
+What is the process of applying for this loan?,faq.application_process,Ano ang proseso ng pag-aaplay para sa utang na ito?,general.query
+What is the process of registering for abcd company direct?,faq.application_process,Ano ang proseso ng pagrehistro para sa direktang kumpanya ng ABCD?,general.query
+What is the process of taking the loan?,faq.application_process,Ano ang proseso ng pagkuha ng utang?,general.query
+What is the process to apply for abcd company direct?,faq.application_process,Ano ang proseso upang mag-aplay para sa direktang kumpanya ng ABCD?,general.query
+What is the process to apply for simplerloan?,faq.application_process,Ano ang proseso na mag-aplay para sa simplerloan?,general.query
+What is the process to get finance?,faq.application_process,Ano ang proseso upang makakuha ng pananalapi?,general.query
+What is the process to start new business?,faq.application_process,Ano ang proseso upang simulan ang bagong negosyo?,general.query
+What is your application process?,faq.application_process,Ano ang iyong proseso ng aplikasyon?,general.query
+What is your loan process?,faq.application_process,Ano ang iyong proseso ng pautang?,general.query
+What is your process of application?,faq.application_process,Ano ang iyong proseso ng aplikasyon?,general.query
+What's the abcd company direct application procedure for taking the loan?,faq.application_process,Ano ang proseso ng direktang aplikasyon ng ABCD para sa pagkuha ng utang?,general.query
+What's the abcd company direct application process for taking the loan?,faq.application_process,Ano ang direktang proseso ng aplikasyon ng ABCD para sa pagkuha ng utang?,general.query
+How is the process to apply for abcd company direct?,faq.application_process,Paano ang proseso para mag-aplay sa direktang kumpanya ng ABCD?,general.query
+How is the procedure to apply for abcd company direct?,faq.application_process,Paano ang proseso para mag-aplay sa direktang kumpanya ng ABCD?,general.query
+How is the possible to take loan?,faq.application_process,Paano posible na mag-utang?,general.query
+How is it possible to get loan?,faq.application_process,Paano posible na makakuha ng pautang?,general.query
+How I can get the loan?,faq.application_process,Paano ko makuha ang utang?,general.query
+How getting loan?,faq.application_process,Paano nakakakuha ng pautang?,general.query
+How get loan?,faq.application_process,Paano Kumuha ng Pautang?,general.query
+How do I applying for abcd company direct?,faq.application_process,Paano ako mag-aaplay para sa direktang kumpanya ng ABCD?,general.query
+How do I apply for loan?,faq.application_process,Paano ako mag-aplay para sa utang?,general.query
+How do I apply?,faq.application_process,Paano ako mag-aplay?,general.query
+How can I take loan from your company?,faq.application_process,Paano ako makakakuha ng pautang mula sa iyong kumpanya?,general.query
+How can I have a business loan?,faq.application_process,Paano ako magkakaroon ng pautang sa negosyo?,general.query
+How can I get the loan please tell me the process,faq.application_process,Paano ako makakakuha ng utang mangyaring sabihin sa akin ang proseso,general.query
+How can I get It Please Tell me for process,faq.application_process,Paano ako makakakuha nito mangyaring sabihin sa akin para sa proseso,general.query
+How can I get a loan from you?,faq.application_process,Paano ako makakakuha ng pautang mula sa iyo?,general.query
+How can I fill the loan application?,faq.application_process,Paano ko pupunuin ang application ng pautang?,general.query
+How can I apply for the business loan?,faq.application_process,Paano ako mag-aplay para sa pautang sa negosyo?,general.query
+How can I apply for loan?,faq.application_process,Paano ako mag-aplay para sa pautang?,general.query
+how can I apply for loan,faq.application_process,Paano ako mag-aplay para sa utang,general.query
+How can I apply for abcd company direct?,faq.application_process,Paano ako mag-aplay para sa direktang kumpanya ng ABCD?,general.query
+How can get loan,faq.application_process,Paano makakakuha ng pautang,general.query
+The process of abcd company direct applying to get loan?,faq.application_process,Ang proseso ng direktang kumpanya ng ABCD ay nag-aaplay upang makakuha ng pautang?,
+The process of abcd company direct application to get loan?,faq.application_process,Ang proseso ng direktang aplikasyon ng kumpanya ng ABCD upang makakuha ng pautang?,
+The procedure of this loan application to get loan?,faq.application_process,Ang pamamaraan ng aplikasyon ng pautang na ito upang makakuha ng pautang?,
+The procedure of simplerloan application to get loan?,faq.application_process,Ang pamamaraan ng application ng simplerloan upang makakuha ng pautang?,
+The procedure of abcd company direct applying to get loan?,faq.application_process,Ang pamamaraan ng direktang kumpanya ng ABCD ay nag-aaplay upang makakuha ng pautang?,
+The procedure of abcd company direct application to get loan?,faq.application_process,Ang pamamaraan ng direktang aplikasyon ng kumpanya ng ABCD upang makakuha ng pautang?,
+Tell me the process to get this loan?,faq.application_process,Sabihin mo sa akin ang proseso upang makuha ang utang na ito?,
+Tell me the process of abcd company direct application ?,faq.application_process,Sabihin mo sa akin ang proseso ng direktang aplikasyon ng kumpanya ng ABCD?,
+Tell me the process for applying for this loan?,faq.application_process,Sabihin mo sa akin ang proseso para mag-aplay para sa utang na ito?,
+Tell me the procedure of this loan application?,faq.application_process,Sabihin mo sa akin ang pamamaraan ng aplikasyon ng pautang na ito?,
+Tell me the procedure of abcd company direct application ?,faq.application_process,Sabihin mo sa akin ang pamamaraan ng direktang aplikasyon ng kumpanya ng ABCD?,
+tell me the procedure for applciation,faq.application_process,Sabihin mo sa akin ang pamamaraan para sa appliyasyon,
+Tell me about the process to apply for simplerloan?,faq.application_process,Sabihin mo sa akin ang tungkol sa proseso upang mag-aplay para sa simplerloan?,
+Tell me about the process to apply for abcd company direct?,faq.application_process,Sabihin mo sa akin ang proseso upang mag-aplay para sa direktang kumpanya ng ABCD?,
+Steps to get the loan,faq.application_process,Mga hakbang upang makuha ang utang,
+Steps for availing the loan,faq.application_process,Mga hakbang para sa pag-avail ng utang,
+Send me your application form,faq.application_process,Ipadala sa akin ang iyong application form.,
+Process to get loan for business?,faq.application_process,Proseso upang makakuha ng pautang para sa negosyo?,
+Process to get business loan?,faq.application_process,Proseso upang makakuha ng pautang sa negosyo?,
+Process to apply for loan?,faq.application_process,Proseso upang mag-aplay para sa utang?,
+Process to apply?,faq.application_process,Proseso upang mag-apply?,
+Process of abcd company direct applying process for getiing the loan?,faq.application_process,Proseso ng direktang kumpanya ng ABCD ang nag-aaplay na proseso para makuha ang utang?,
+Need offline application form,faq.application_process,Kailangan ang offline na application form.,
+Need the details to apply for loan?,faq.application_process,Kailangan mo ng mga detalye na mag-aplay para sa utang?,
+Need the process for loan,faq.application_process,Kailangan ang proseso para sa utang,
+need to know the loan process,faq.application_process,kailangang malaman ang proseso ng pautang.,
+Need your application form,faq.application_process,Kailangan ang iyong application form.,
+please guide me the with procedure of the loan?,faq.application_process,Paki-gabay sa akin ang pamamaraan ng utang?,
+Please send application form,faq.application_process,Mangyaring magpadala ng application form.,
+I want to know what is process of loan for a new business,faq.application_process,Gusto kong malaman kung ano ang proseso ng utang para sa isang bagong negosyo,
+I would like to know the process of application,faq.application_process,Gusto kong malaman ang proseso ng aplikasyon,
+I would like to know the process of loan,faq.application_process,Gusto kong malaman ang proseso ng utang,
+loan application procedure?,faq.application_process,Pamamaraan ng Application ng Pautang?,
+Loan applying process?,faq.application_process,Pautang na nag-aaplay ng proseso?,
+Loan apply karna hai,faq.application_process,Pautang Ilapat ang Karna Hai.,
+Mobile app abcd company direct applying procedure?,faq.application_process,Mobile app ABCD kumpanya direktang paglalapat ng pamamaraan?,
+Mobile app loan applying procedure?,faq.application_process,Mobile App Loan Applying Procedure?,
+Nedd help with loan procedure,faq.application_process,Tumulong ang NEDD sa Pamamaraan ng Pautang.,
+Need loan so how is it possible?,faq.application_process,Kailangan mo ng utang kaya paano posible?,
+What is process for enrolling for sodexo pass?,faq.apply_register,Ano ang proseso para sa pagpapatala para sa sodexo pass?,
+Give me the application process,faq.apply_register,Bigyan mo ako ng proseso ng aplikasyon,
+How will I create a new account?,faq.apply_register,Paano ako lilikha ng isang bagong account?,
+How do I enroll for a meal pass?,faq.apply_register,Paano ako magpatala para sa isang pass pass?,
+How to sign up?,faq.apply_register,Paano mag-sign up?,
+How do I register?,faq.apply_register,Paano ako magparehistro?,
+Can you please tell me the process of sodexo pass application?,faq.apply_register,Maaari mo bang sabihin sa akin ang proseso ng application ng sodexo pass?,
+Can you please tell me the process?,faq.apply_register,Maaari mo bang sabihin sa akin ang proseso?,
+Can you please tell me the procedure of this pass application?,faq.apply_register,Maaari mo bang sabihin sa akin ang pamamaraan ng aplikasyon ng pass na ito?,
+Can you please tell me the procedure of application?,faq.apply_register,Maaari mo bang sabihin sa akin ang pamamaraan ng aplikasyon?,
+Sodexo meal pass registering process?,faq.apply_register,Sodexo meal pass registing process?,
+Sodexo pass online applying process?,faq.apply_register,Sodexo Pass Online Applying Process?,
+Sodexo pass online applying procedure?,faq.apply_register,Sodexo Pass Online Applying Procedure?,
+Apply through mobile or website?,faq.apply_register,Mag-apply sa pamamagitan ng mobile o website?,
+Sodexo moblie application procedure?,faq.apply_register,Sodexo Moblie Application Procedure?,
+Sodexo applying process?,faq.apply_register,SODEXO paglalapat ng proseso?,
+Sodexo applying procedure?,faq.apply_register,SODEXO APPLYING PROCEDURE?,
+Sodexo pass applying how?,faq.apply_register,Sodexo pass na nag-aaplay kung paano?,
+Sodexo pass apply,faq.apply_register,SODEXO PASS APPLY.,
+Sodexo pass application process?,faq.apply_register,Sodexo Pass application process?,
+Sodexo pass application procedure?,faq.apply_register,Sodexo Pass Application Procedure?,
+How should I proceed for pass?,faq.apply_register,Paano ako dapat magpatuloy?,
+How do I proceed for meal pass,faq.apply_register,Paano ako magpatuloy para sa pagkain,
+How to proceed for pass,faq.apply_register,Paano magpatuloy para sa pass.,
+What is the process for getting the pass?,faq.apply_register,Ano ang proseso para sa pagkuha ng pass?,
+Need a new meal pass how to apply,faq.apply_register,Kailangan ng isang bagong pagkain pass kung paano mag-apply,
+New pass needed,faq.apply_register,Kailangan ng bagong pass.,
+How to apply for a new pass,faq.apply_register,Paano mag-aplay para sa isang bagong pass.,
+How to register for a new meal pass,faq.apply_register,Paano magparehistro para sa isang bagong pass pass,
+How to apply for meal pass?,faq.apply_register,Paano mag-aplay para sa pass pass?,
+Process for registration,faq.apply_register,Proseso para sa pagpaparehistro,
+Register for premium pass,faq.apply_register,Magrehistro para sa Premium Pass.,
+Apply for premium pass?,faq.apply_register,Mag-apply para sa Premium Pass?,
+Register for meal pass.,faq.apply_register,Magparehistro para sa pagkain pass.,
+How to apply?,faq.apply_register,Paano mag-apply?,
+Application process?,faq.apply_register,Proseso ng aplikasyon?,
+Registration method?,faq.apply_register,Paraan ng pagpaparehistro?,
+Process of application,faq.apply_register,Proseso ng aplikasyon,
+How do I apply?,faq.apply_register,Paano ako mag-aplay?,
+Give me the registration procedure,faq.apply_register,Bigyan mo ako ng pamamaraan ng pagpaparehistro,
+What form do i have to fill for enrolling into sodexo,faq.apply_register,Anong form ang kailangan kong punan ang pag-enroll sa sodexo,
+How can i join sodexo?,faq.apply_register,Paano ako makakasali sa sodexo?,
+How can i book my sodexo pass?,faq.apply_register,Paano ko mag-book ang aking sodexo pass?,
+Can you guide me through your company㒓泅 enrollment procedure,faq.apply_register,Maaari mo bang gabayan ako sa pamamagitan ng iyong kumpanya 㒓泅 pamamaraan ng pagpapatala,
+Sign up for sodexo pass/card,faq.apply_register,Mag-sign up para sa sodexo pass / card.,
+Apply for meal pass.,faq.apply_register,Mag-apply para sa pagkain pass.,
+Registration process for meal pass?,faq.apply_register,Proseso ng pagpaparehistro para sa pagkain pass?,
+Application process for meal pass?,faq.apply_register,Proseso ng aplikasyon para sa pagkain pass?,
+How to apply/register?,faq.apply_register,Paano mag-apply / magparehistro?,
+What is the registration process?,faq.apply_register,Ano ang proseso ng pagpaparehistro?,
+How do i utilize serves provided by your company,faq.apply_register,Paano ko magamit ang mga serbisyong ibinigay ng iyong kumpanya,
+Process of signing up for sodexo,faq.apply_register,Proseso ng pag-sign up para sa sodexo.,
+Hw do i register?,faq.apply_register,Hw ako ba ay nagrehistro?,
+Can i signup here?,faq.apply_register,Maaari ba akong mag-sign up dito?,
+Cn u hlp me with registration?,faq.apply_register,Cn u hlp me with registration?,
+Where can I apply or register for a Sodexo card?,faq.apply_register,Saan ako maaaring mag-aplay o magparehistro para sa isang sodexo card?,
+How to register?,faq.apply_register,Kung paano magrehistro?,
+Process of registering?,faq.apply_register,Proseso ng pagrehistro?,
+How do I apply for meal pass?,faq.apply_register,Paano ako mag-aplay para sa pagkain?,
+What is the application process?,faq.apply_register,Ano ang proseso ng aplikasyon?,
+Apply kaise kare?,faq.apply_register,Ilapat ang Kaise Kare?,
+Application method?,faq.apply_register,Paraan ng aplikasyon?,
+Time it takes to get the loan to be approved?,faq.approval_time,Oras na kinakailangan upang maaprubahan ang utang?,
+Time it will take to get a loan approval?,faq.approval_time,Oras na aabutin upang makakuha ng pag-apruba ng pautang?,
+Time it will take to get a loan sanctioned?,faq.approval_time,Oras na ito ay aabutin upang makakuha ng isang pautang sanctioned?,
+Time needed for the loan approved?,faq.approval_time,Kailangan ang oras para sa utang na inaprubahan?,
+Time needed for the loan granted?,faq.approval_time,Kailangan ang oras para sa utang na ipinagkaloob?,
+Time need for the loan approval?,faq.approval_time,Kailangan ng oras para sa pag-apruba ng pautang?,
+Time required for loan approval?,faq.approval_time,Kinakailangan ang oras para sa pag-apruba ng pautang?,
+Why is this approval taking so much time?,faq.approval_time,Bakit ang pag-apruba na ito ay napakaraming oras?,
+What's the time you take for approving any loan,faq.approval_time,Ano ang oras na iyong ginagawa para sa pag-apruba ng anumang pautang,
+What's the time you need to sanction my loan,faq.approval_time,Ano ang oras na kailangan mong sanction ang aking utang,
+What's the time you need to approve my loan,faq.approval_time,Ano ang oras na kailangan mo upang aprubahan ang aking utang,
+What is the time duration for approval?,faq.approval_time,Ano ang tagal ng panahon para sa pag-apruba?,
+What is the approval time for this loan?,faq.approval_time,Ano ang oras ng pag-apruba para sa utang na ito?,
+Wh are you taking so time time for approval?,faq.approval_time,Wh ikaw ay pagkuha kaya oras ng oras para sa pag-apruba?,
+Too much time for approval,faq.approval_time,Masyadong maraming oras para sa pag-apruba,
+Time you need for giving me a loan granted?,faq.approval_time,Oras na kailangan mo para sa pagbibigay sa akin ng utang na ipinagkaloob?,
+Time you need for giving me a loan approved?,faq.approval_time,Oras na kailangan mo para sa pagbibigay sa akin ng isang pautang na inaprubahan?,
+Time you'd take for process the loan sanction,faq.approval_time,Oras na gusto mong gawin para sa proseso ng pautang,
+For this loan what is the approval time?,faq.approval_time,Para sa utang na ito kung ano ang oras ng pag-apruba?,
+How long does it take for a loan to be approved?,faq.approval_time,Gaano katagal ang kinakailangan para maaprubahan?,
+How long will it take to get the money after loan has been sanctioned?,faq.approval_time,Gaano katagal aabutin upang makuha ang pera pagkatapos ng pautang ay sanctioned?,
+How long will it time required after the loan has been granted?,faq.approval_time,Gaano katagal ang oras na kinakailangan matapos ang utang ay ipinagkaloob?,
+How long will you take to give me loan amount after the loan has been approved?,faq.approval_time,Gaano katagal mong dadalhin upang bigyan ako ng utang na utang pagkatapos na maaprubahan ang utang?,
+How many days does loan approval take?,faq.approval_time,Ilang araw ang kinukuha ng pag-apruba ng pautang?,
+How many days will loan approval take?,faq.approval_time,Ilang araw ang nag-apruba ng pag-apruba?,
+How much time does it take for loan approval?,faq.approval_time,Gaano karaming oras ang kinakailangan para sa pag-apruba ng pautang?,
+How much time for approval of loan?,faq.approval_time,Gaano karaming oras para sa pag-apruba ng utang?,
+How much time is needed for approval of loan?,faq.approval_time,Gaano karaming oras ang kailangan para sa pag-apruba ng utang?,
+How much time will be required for loan approval?,faq.approval_time,Gaano karaming oras ang kinakailangan para sa pag-apruba ng pautang?,
+How much time will it take to approve my loan?,faq.approval_time,Gaano karaming oras ang kinakailangan upang aprubahan ang aking utang?,
+How much time will it take to sanction my loan?,faq.approval_time,Gaano karaming oras ang kinakailangan upang sanayin ang aking utang?,
+how much time you are going to to take for approval of loan?,faq.approval_time,Gaano karaming oras ang gagawin mo para sa pag-apruba ng utang?,
+How much time you need to give me loan amount after the loan is approved?,faq.approval_time,Gaano karaming oras ang kailangan mong bigyan ako ng utang na utang matapos maaprubahan ang utang?,
+How much time you need to give me money after the loan is approved?,faq.approval_time,Gaano karaming oras ang kailangan mo upang bigyan ako ng pera pagkatapos maaprubahan ang utang?,
+In how many days after submitting is the loan approved?,faq.approval_time,Sa ilang araw pagkatapos ng pagsusumite ay naaprubahan ang utang?,
+In how many days is the the loan approved?,faq.approval_time,Sa ilang araw ay naaprubahan ang utang?,
+In how much time can you you give the loan,faq.approval_time,Sa kung gaano karaming oras ang maaari mong ibigay ang utang,
+In how much time will I get loan after applying?,faq.approval_time,Sa kung magkano ang oras ay makakakuha ako ng pautang pagkatapos mag-aplay?,
+Loan approval is taking lot of time,faq.approval_time,Ang pag-apruba ng pautang ay kumukuha ng maraming oras,
+Loan approval takes how much time?,faq.approval_time,Ang pag-apruba ng pautang ay tumatagal ng kung gaano karaming oras?,
+Loan is approved in how many days?,faq.approval_time,Ang utang ay naaprubahan sa kung gaano karaming araw?,
+The loan approval is going for a long time,faq.approval_time,Ang pag-apruba ng pautang ay mahabang panahon,
+Time for approval is very much,faq.approval_time,Napakaraming oras para sa pag-apruba,
+Time it takes to get the loan to be granted?,faq.approval_time,Oras na kinakailangan upang makuha ang utang na ipagkaloob?,
+Time you need for approval,faq.approval_time,Oras na kailangan mo para sa pag-apruba,
+Time you'd take for process the loan approval,faq.approval_time,Oras na gagawin mo para maproseso ang pag-apruba ng pautang,
+Time required for loan sanction process,faq.approval_time,Oras na kinakailangan para sa proseso ng pahintulot ng pautang.,
+Time required for loan approval process,faq.approval_time,Oras na kinakailangan para sa proseso ng pag-apruba ng pautang.,
+After applying in how much time will I get loan?,faq.approval_time,Pagkatapos mag-apply sa kung gaano karaming oras ang makakakuha ako ng utang?,
+After applying loan will get in how much time?,faq.approval_time,Pagkatapos mag-apply ng pautang ay makakakuha sa kung magkano ang oras?,
+After loan application how much time required?,faq.approval_time,Pagkatapos ng aplikasyon ng pautang kung gaano karaming oras ang kinakailangan?,
+After the loan process how much time is required?,faq.approval_time,Pagkatapos ng proseso ng pautang kung gaano karaming oras ang kinakailangan?,
+After the process how much time needed?,faq.approval_time,Pagkatapos ng proseso kung gaano karaming oras ang kailangan?,
+Already applied in how much time will I get loan?,faq.approval_time,Na-apply na kung gaano karaming oras ang makakakuha ako ng pautang?,
+Approval is taking very much time...,faq.approval_time,Ang pag-apruba ay kumukuha ng napakaraming oras ...,
+Approval time is too long.,faq.approval_time,Masyadong mahaba ang oras ng pag-apruba.,
+Approval time is very much,faq.approval_time,Ang oras ng pag-apruba ay napaka,
+For approval of loan how much time is required?,faq.approval_time,Para sa pag-apruba ng utang Gaano karaming oras ang kinakailangan?,
+For getting this loan what is the time required for approval?,faq.approval_time,Para sa pagkuha ng utang na ito kung ano ang oras na kinakailangan para sa pag-apruba?,
+For loan approval how much time will be required?,faq.approval_time,Para sa pag-apruba ng pautang kung gaano karaming oras ang kinakailangan?,
+for loan what is the approval time?,faq.approval_time,para sa utang Ano ang oras ng pag-apruba?,
+For long time loan approval is going on,faq.approval_time,Para sa mahabang panahon ng pag-apruba ng pautang ay nagaganap,
+you cannot help me,faq.bad_service,Hindi mo ako matutulungan,
+I don't get response,faq.bad_service,Hindi ako tumugon,
+Really bad support,faq.bad_service,Talagang masamang suporta,
+No response from your side,faq.bad_service,Walang tugon mula sa iyong panig,
+Have not recieved responses,faq.bad_service,Hindi natanggap ang mga tugon,
+Do not recieved any response from you guys,faq.bad_service,Huwag natanggap ang anumang tugon mula sa iyo guys.,
+You don't respond to my emails,faq.bad_service,Hindi ka tumugon sa aking mga email,
+You guys have a really bad service,faq.bad_service,Ikaw guys ay may isang talagang masamang serbisyo,
+No response of my emails,faq.bad_service,Walang tugon ng aking mga email,
+You have not responded to my email queries,faq.bad_service,Hindi ka tumugon sa aking mga query sa email,
+abcd company has a bad support,faq.bad_service,Ang kumpanya ng ABCD ay may masamang suporta,
+You have a bad support,faq.bad_service,Mayroon kang masamang suporta,
+You really have a bad service,faq.bad_service,Mayroon kang isang masamang serbisyo,
+Bad service you have,faq.bad_service,Masamang serbisyo na mayroon ka,
+I cannot find my current bank in net banking option,faq.banking_option_missing,Hindi ko mahanap ang aking kasalukuyang bangko sa net banking option,
+In net banking option I cannot find my bank,faq.banking_option_missing,Sa net banking option hindi ko mahanap ang aking bangko,
+In net banking option I cannot find my current bank,faq.banking_option_missing,Sa opsyon sa net banking hindi ko mahanap ang aking kasalukuyang bangko,
+My bank is not available in net banking option,faq.banking_option_missing,Ang aking bangko ay hindi magagamit sa net banking option.,
+My bank is not present in net banking choice,faq.banking_option_missing,Ang aking bangko ay wala sa net banking choice.,
+My bank is not present in net banking option,faq.banking_option_missing,Ang aking bangko ay wala sa opsyon sa net banking.,
+Bank is not there in banking options?,faq.banking_option_missing,Ang bangko ay wala sa mga opsyon sa pagbabangko?,
+My bank is not supported,faq.banking_option_missing,Ang aking bangko ay hindi suportado,
+My bank is not there in options,faq.banking_option_missing,Ang aking bangko ay wala sa mga opsyon,
+My bank option is missing?,faq.banking_option_missing,Nawawala ang opsyon sa aking bangko?,
+My current bank is not present in net banking option,faq.banking_option_missing,Ang aking kasalukuyang bangko ay wala sa opsyon sa net banking,
+Can you tell me why is my curent bank not present in net banking option?,faq.banking_option_missing,Maaari mo bang sabihin sa akin kung bakit ang aking curent bank ay hindi naroroon sa net banking option?,
+My pank is missing from options?,faq.banking_option_missing,Nawawala ang aking pank mula sa mga pagpipilian?,
+No my bank is not present in the options,faq.banking_option_missing,Hindi ang aking bangko ay wala sa mga pagpipilian,
+Why is my current bank not available in net banking option?,faq.banking_option_missing,Bakit hindi magagamit ang aking kasalukuyang bangko sa net banking option?,
+Why is my current bank not present in Net banking option?,faq.banking_option_missing,Bakit hindi naroroon ang aking kasalukuyang bangko sa opsyon sa net banking?,
+Why is my current bank not present in online banking choice?,faq.banking_option_missing,Bakit hindi naroroon ang aking kasalukuyang bangko sa online banking choice?,
+Why is my current bank not showing in the net banking option,faq.banking_option_missing,Bakit hindi nagpapakita ang aking kasalukuyang bangko sa opsyon sa net banking,
+Why si my bank not supported,faq.banking_option_missing,Bakit hindi sinusuportahan ang aking bangko,
+Will I need an account of a specific bank for making the loan application?,faq.banking_option_missing,Kailangan ko ba ng isang account ng isang partikular na bangko para sa paggawa ng aplikasyon ng pautang?,
+Can you tell me why is my current bank not present in online banking choice?,faq.banking_option_missing,Maaari mo bang sabihin sa akin kung bakit ang aking kasalukuyang bangko ay hindi naroroon sa pagpipilian sa online banking?,
+Do I need to have an account of a certain bank for making the loan application because my bank is not avalable in net banking option,faq.banking_option_missing,Kailangan ko bang magkaroon ng isang account ng isang bangko para sa paggawa ng loan application dahil ang aking bangko ay hindi avalable sa net banking option,
+Do I need to have an account of a specific bank for making the loan application?,faq.banking_option_missing,Kailangan ko bang magkaroon ng isang account ng isang partikular na bangko para sa paggawa ng aplikasyon ng pautang?,
+For making loan application do I need to have an account on a certain bank as my bank is not showing up in net banking option,faq.banking_option_missing,Para sa paggawa ng application ng pautang kailangan kong magkaroon ng isang account sa isang bangko bilang aking bangko ay hindi nagpapakita sa net banking option,
+For making loan application do I need to have an account on a specific bank?,faq.banking_option_missing,Para sa paggawa ng aplikasyon ng pautang kailangan kong magkaroon ng isang account sa isang partikular na bangko?,
+For making loan application do I need to have an account on a specific bank because my bank is not present in net banking option,faq.banking_option_missing,Para sa paggawa ng aplikasyon ng pautang kailangan kong magkaroon ng isang account sa isang partikular na bangko dahil ang aking bangko ay wala sa net banking option,
+For the application of Loan will I have to make an account on a certain bank as in the net banking option my current bank is not available,faq.banking_option_missing,Para sa aplikasyon ng pautang ay kailangan kong gumawa ng isang account sa isang bangko tulad ng sa net banking option ang aking kasalukuyang bangko ay hindi magagamit,
+Help me because I cannot find my bank in net banking option,faq.banking_option_missing,Tulungan mo ako dahil hindi ko mahanap ang aking bangko sa net banking option,
+Help me because I cannot find my current bank in net banking option,faq.banking_option_missing,Tulungan mo ako dahil hindi ko mahanap ang aking kasalukuyang bangko sa net banking option,
+How should I proceed as I cannot find my bank in online banking choices?,faq.banking_option_missing,Paano ako dapat magpatuloy dahil hindi ko mahanap ang aking bangko sa mga pagpipilian sa online banking?,
+I cannot find my bank in Net banking.,faq.banking_option_missing,Hindi ko mahanap ang aking bangko sa net banking.,
+I cannot find my bank in net banking option,faq.banking_option_missing,Hindi ko mahanap ang aking bangko sa net banking option.,
+In net banking choice I cannot find my bank?,faq.banking_option_missing,Sa net banking choice hindi ko mahanap ang aking bangko?,
+Bank is not there in the options,faq.banking_option_missing,Ang bangko ay wala sa mga pagpipilian,
+Bank not there on the options,faq.banking_option_missing,Hindi doon ang bangko sa mga pagpipilian,
+cannot find my bank in net banking choice,faq.banking_option_missing,hindi mahanap ang aking bangko sa net banking choice,
+Cannot find my bank in netbanking option,faq.banking_option_missing,Hindi mahanap ang aking bangko sa netbanking option.,
+Bank is not supported by you,faq.banking_option_missing,Ang bangko ay hindi sinusuportahan mo.,
+Bank is not present in the options,faq.banking_option_missing,Ang bangko ay wala sa mga pagpipilian,
+You do no support my bank,faq.banking_option_missing,Hindi mo sinusuportahan ang aking bangko,
+Would I need an account with a specific bank to make the loan application?,faq.banking_option_missing,Kailangan ko ba ng isang account na may isang partikular na bangko upang gawin ang aplikasyon ng pautang?,
+Will I need an account of a specific bank for making the loan application as I cannot find my current bank in net banking option?,faq.banking_option_missing,Kailangan ko ba ng isang account ng isang partikular na bangko para sa paggawa ng aplikasyon ng pautang dahil hindi ko mahanap ang aking kasalukuyang bangko sa net banking option?,
+Why is my bank not showing in the online banking choice?,faq.banking_option_missing,Bakit hindi nagpapakita ang aking bangko sa online banking choice?,
+Why is my bank not showing in the net banking option,faq.banking_option_missing,Bakit hindi nagpapakita ang aking bangko sa opsyon sa net banking,
+Why is my bank not present in Net banking option?,faq.banking_option_missing,Bakit hindi naroroon ang aking bangko sa opsyon sa net banking?,
+Why is my bank is not present in net banking option?,faq.banking_option_missing,Bakit hindi naroroon ang aking bangko sa opsyon sa net banking?,
+Why is my bank is not present in net banking choices?,faq.banking_option_missing,Bakit hindi naroroon ang aking bangko sa mga pagpipilian sa net banking?,
+Why is my bank is not available in net banking option?,faq.banking_option_missing,Bakit hindi available ang aking bangko sa opsyon sa net banking?,
+There is not my bank is net banking option?,faq.banking_option_missing,Walang aking bangko ang opsyon sa net banking?,
+There are Issues with net banking,faq.banking_option_missing,May mga isyu sa net banking,
+Some Issues coming with net banking,faq.banking_option_missing,Ilang mga isyu na nagmumula sa net banking.,
+Please tell me why is my current bank not present in net banking option?,faq.banking_option_missing,Mangyaring sabihin sa akin kung bakit ang aking kasalukuyang bangko ay hindi naroroon sa opsyon sa net banking?,
+Please tell me why is my curent bank not present in net banking option?,faq.banking_option_missing,Mangyaring sabihin sa akin kung bakit ang aking curent bank ay hindi naroroon sa opsyon sa net banking?,
+Please tell me why is my curent bank not available in net banking option?,faq.banking_option_missing,Mangyaring sabihin sa akin kung bakit ang aking curent bank ay hindi magagamit sa net banking option?,
+What should I enter if my business category is not presented in the choices?,faq.biz_category_missing,Ano ang dapat kong ipasok kung ang aking kategorya ng negosyo ay hindi iniharap sa mga pagpipilian?,
+Cannot find Industry Type.,faq.biz_category_missing,Hindi mahanap ang uri ng industriya.,
+Cannot find Industry Type on the options.,faq.biz_category_missing,Hindi mahanap ang uri ng industriya sa mga pagpipilian.,
+Category I'm in is not present in the options,faq.biz_category_missing,Ang kategorya na nasa akin ay wala sa mga pagpipilian,
+I cannot find my Business Category / Business Type in the options provided. What should I enter?,faq.biz_category_missing,Hindi ko mahanap ang aking kategorya ng negosyo / uri ng negosyo sa mga pagpipilian na ibinigay. Ano ang dapat kong ipasok?,
+My business is not present on the category list,faq.biz_category_missing,Ang aking negosyo ay wala sa listahan ng kategorya.,
+What should I enter if my business category is not presented in the options?,faq.biz_category_missing,Ano ang dapat kong ipasok kung ang aking kategorya ng negosyo ay hindi iniharap sa mga pagpipilian?,
+What should I enter if my business type is not presented in the options?,faq.biz_category_missing,Ano ang dapat kong ipasok kung ang uri ng aking negosyo ay hindi iniharap sa mga pagpipilian?,
+What to do as my business is not listed in the options?,faq.biz_category_missing,Ano ang gagawin ayon sa aking negosyo ay hindi nakalista sa mga pagpipilian?,
+What to do as my business is not listed on the categories?,faq.biz_category_missing,Ano ang gagawin ayon sa aking negosyo ay hindi nakalista sa mga kategorya?,
+What to do if my business category is not in the options?,faq.biz_category_missing,Ano ang gagawin kung ang aking kategorya ng negosyo ay wala sa mga pagpipilian?,
+What to enter if my my business category is not listed?,faq.biz_category_missing,Ano ang ipasok kung ang aking kategorya ng negosyo ay hindi nakalista?,
+What to enter if my my business type is not listed?,faq.biz_category_missing,Ano ang ipasok kung hindi nakalista ang aking uri ng negosyo?,
+Which option should I choose If my business category is not present?,faq.biz_category_missing,Aling opsyon ang dapat kong piliin kung ang aking kategorya ng negosyo ay hindi naroroon?,
+"Actually the business category I'm in is not present in the choices, What should I do?",faq.biz_category_missing,"Talaga ang kategorya ng negosyo na nasa hindi ako naroroon sa mga pagpipilian, ano ang dapat kong gawin?",
+"Actualy the business category I'm in is not present in the options, What should I do?",faq.biz_category_missing,"Tunay na ang kategoryang Negosyo ay wala ako sa mga pagpipilian, ano ang dapat kong gawin?",
+if my business category is not present in the options,faq.biz_category_missing,Kung ang aking kategorya ng negosyo ay hindi naroroon sa mga pagpipilian,
+Industry Type is not there in the options.,faq.biz_category_missing,Ang uri ng industriya ay wala sa mga pagpipilian.,
+"In the business category my business is not listed, What to do?",faq.biz_category_missing,"Sa kategorya ng negosyo ang aking negosyo ay hindi nakalista, ano ang gagawin?",
+"In the business type my business is not listed, What to do?",faq.biz_category_missing,"Sa uri ng negosyo ang aking negosyo ay hindi nakalista, ano ang gagawin?",
+In the options cannot find Industry Type.,faq.biz_category_missing,Sa mga pagpipilian ay hindi mahanap ang uri ng industriya.,
+"In the options provided business category is not present, What should I do?",faq.biz_category_missing,"Sa mga pagpipilian na ibinigay ng kategorya ng negosyo ay hindi naroroon, ano ang dapat kong gawin?",
+"My biz category is missing in the options, What can I do?",faq.biz_category_missing,"Ang aking biz category ay nawawala sa mga pagpipilian, ano ang maaari kong gawin?",
+"My Business category is missing in the choices, What can I do?",faq.biz_category_missing,"Ang aking kategorya ng negosyo ay nawawala sa mga pagpipilian, ano ang maaari kong gawin?",
+My Business category is missing in the options.,faq.biz_category_missing,Ang aking kategorya ng negosyo ay nawawala sa mga pagpipilian.,
+"My Business category is missing in the options, What can I do?",faq.biz_category_missing,"Ang aking kategorya ng negosyo ay nawawala sa mga pagpipilian, ano ang maaari kong gawin?",
+My business category is not there.,faq.biz_category_missing,Ang kategorya ng aking negosyo ay wala roon.,
+My business category missing from the options.,faq.biz_category_missing,Ang aking kategorya ng negosyo ay nawawala mula sa mga pagpipilian.,
+My business if different form the choices,faq.biz_category_missing,Ang aking negosyo kung iba't ibang form ang mga pagpipilian,
+My business is not listed in the options.,faq.biz_category_missing,Ang aking negosyo ay hindi nakalista sa mga pagpipilian.,
+My business is not present on the category options.,faq.biz_category_missing,Ang aking negosyo ay wala sa mga pagpipilian sa kategorya.,
+My business is not there in category,faq.biz_category_missing,Ang aking negosyo ay wala sa kategorya,
+"My Business type is missing in the options, What can I do?",faq.biz_category_missing,"Ang uri ng negosyo ko ay nawawala sa mga pagpipilian, ano ang maaari kong gawin?",
+The business I'm in is not there on the category list,faq.biz_category_missing,Ang negosyo na nasa akin ay wala sa listahan ng kategorya,
+"What can I do, even if my business category is not present in the choices?",faq.biz_category_missing,"Ano ang maaari kong gawin, kahit na ang aking kategorya ng negosyo ay hindi naroroon sa mga pagpipilian?",
+"What can I do, even if my business category is not present in the options?",faq.biz_category_missing,"Ano ang maaari kong gawin, kahit na ang aking kategorya ng negosyo ay wala sa mga pagpipilian?",
+What should I enter if my biz type is not presented in the options?,faq.biz_category_missing,Ano ang dapat kong ipasok kung ang aking uri ng biz ay hindi iniharap sa mga pagpipilian?,
+"Business category is not there in the options, Which option should I chosse now ?",faq.biz_category_missing,"Ang kategoryang Negosyo ay wala sa mga pagpipilian, anong pagpipilian ang dapat kong piliin ngayon?",
+Business category missing from the options,faq.biz_category_missing,Nawawala ang kategorya ng negosyo mula sa mga pagpipilian,
+Business category missing from the options. What should I do?,faq.biz_category_missing,Nawawala ang kategorya ng negosyo mula sa mga pagpipilian. Anong gagawin ko?,
+new companies can also apply?,faq.biz_new,Maaari ring mag-aplay ang mga bagong kumpanya?,
+Can I get loan for new enterprise?,faq.biz_new,Maaari ba akong makakuha ng utang para sa bagong enterprise?,
+Can I get loan for new venture,faq.biz_new,Maaari ba akong makakuha ng pautang para sa bagong venture.,
+Can i get loan for start new business?,faq.biz_new,Maaari ba akong makakuha ng utang para simulan ang bagong negosyo?,
+can i get loan to start new business?,faq.biz_new,Maaari ba akong makakuha ng pautang upang simulan ang bagong negosyo?,
+Can new businesses also apply for loan?,faq.biz_new,Maaari ring mag-apply ang mga bagong negosyo para sa pautang?,
+Can new companies apply for loan?,faq.biz_new,Magagamit ba ang mga bagong kumpanya para sa pautang?,
+I just opened a new business,faq.biz_new,Binuksan ko lang ang isang bagong negosyo,
+I'm a beginner in business,faq.biz_new,Ako ay isang baguhan sa negosyo,
+I'm new in business so I can get loan?,faq.biz_new,Ako ay bago sa negosyo upang makakuha ako ng pautang?,
+I'm planning to start up,faq.biz_new,Nagpaplano akong magsimula,
+I'm starting business,faq.biz_new,Nagsisimula ako ng negosyo,
+I started my business last week,faq.biz_new,Sinimulan ko ang aking negosyo noong nakaraang linggo,
+I started my business started last month,faq.biz_new,Sinimulan ko ang aking negosyo noong nakaraang buwan,
+i started one my company last week,faq.biz_new,Nagsimula ako sa isang kumpanya noong nakaraang linggo,
+I starting new firm for business,faq.biz_new,Nagsisimula akong bagong kompanya para sa negosyo,
+I starting new firm for new business,faq.biz_new,Nagsisimula ako ng bagong kompanya para sa bagong negosyo,
+Its a fresh company,faq.biz_new,Ang isang sariwang kumpanya,
+i want create a business,faq.biz_new,Gusto kong lumikha ng isang negosyo,
+i want the money to start a new business,faq.biz_new,Gusto ko ang pera upang magsimula ng isang bagong negosyo,
+I want to open a business,faq.biz_new,Gusto kong magbukas ng negosyo,
+I want to open an enterprise,faq.biz_new,Gusto kong magbukas ng enterprise,
+I want to start a business.,faq.biz_new,Gusto kong magsimula ng isang negosyo.,
+I want to start a service,faq.biz_new,Gusto kong magsimula ng serbisyo,
+I want to start a small business can you give me loan?,faq.biz_new,Gusto kong magsimula ng isang maliit na negosyo maaari mong bigyan ako ng pautang?,
+I want to start my business so need loan,faq.biz_new,Gusto kong simulan ang aking negosyo kaya kailangan loan.,
+I want to start my own enterprise,faq.biz_new,Gusto kong simulan ang aking sariling enterprise,
+Loan available for company less than one year,faq.biz_new,Pautang na magagamit para sa kumpanya na mas mababa sa isang taon,
+Loan available for setting up new business,faq.biz_new,Magagamit ang pautang para sa pag-set up ng bagong negosyo,
+Loan for new business?,faq.biz_new,Pautang para sa bagong negosyo?,
+Loan give to start business now?,faq.biz_new,Pautang Ibigay upang simulan ang negosyo ngayon?,
+Loan is available for new businesses?,faq.biz_new,Ang pautang ay magagamit para sa mga bagong negosyo?,
+My business is new,faq.biz_new,Ang aking negosyo ay bago,
+My business is relatively new,faq.biz_new,Ang aking negosyo ay medyo bago,
+my company is started 1 month before,faq.biz_new,Nagsimula ang aking kumpanya 1 buwan bago,
+My company just started months ago,faq.biz_new,Nagsimula ang aking kumpanya nang ilang buwan.,
+Need to start own venture,faq.biz_new,Kailangan upang simulan ang sariling venture.,
+New business can get loan?,faq.biz_new,Ang bagong negosyo ay maaaring makakuha ng pautang?,
+New businesses can also apply for loans?,faq.biz_new,Ang mga bagong negosyo ay maaari ring mag-aplay para sa mga pautang?,
+New businesses can get loans?,faq.biz_new,Ang mga bagong negosyo ay makakakuha ng mga pautang?,
+Can any fresher apply for loan?,faq.biz_new,Maaari bang mag-aplay ang anumang fresher para sa pautang?,
+New company can apply for loan?,faq.biz_new,Ang bagong kumpanya ay maaaring mag-aplay para sa utang?,
+Newly opened company,faq.biz_new,Bagong binuksan na kumpanya,
+New venture can get loan?,faq.biz_new,Ang bagong venture ay maaaring makakuha ng pautang?,
+Now starting a new business,faq.biz_new,Ngayon ay nagsisimula ng isang bagong negosyo,
+Recently started my company,faq.biz_new,Kamakailan lamang nagsimula ang aking kumpanya,
+Sir I have opened new business,faq.biz_new,Ginoo binuksan ko ang bagong negosyo,
+Started my company last month,faq.biz_new,Nagsimula ang aking kumpanya noong nakaraang buwan,
+Starting a business now,faq.biz_new,Pagsisimula ng isang negosyo ngayon,
+Starting a new business,faq.biz_new,Pagsisimula ng isang bagong negosyo,
+The business I have is not so old,faq.biz_new,Ang negosyo na mayroon ako ay hindi kaya lumang.,
+The business is relatively new,faq.biz_new,Ang negosyo ay medyo bago,
+To start a business can you give me loan?,faq.biz_new,Upang magsimula ng isang negosyo maaari mong bigyan ako ng pautang?,
+Want to build a new empire,faq.biz_new,Gusto mong bumuo ng isang bagong imperyo,
+Want to start a business,faq.biz_new,Gusto mong magsimula ng isang negosyo,
+Want to start a business and need loan for that,faq.biz_new,Nais na magsimula ng isang negosyo at kailangan pautang para sa na,
+Want to start a new venture,faq.biz_new,Gusto mong magsimula ng isang bagong venture.,
+Want to start business needs loan for that,faq.biz_new,Gusto mong simulan ang mga pangangailangan sa negosyo para sa na,
+What to start new business for which I want loan?,faq.biz_new,Ano ang magsisimula ng bagong negosyo kung saan gusto kong pautang?,
+Will you me loan to start my own business?,faq.biz_new,Ikaw ba ay pautang upang simulan ang aking sariling negosyo?,
+Would like to start a small company. Need loan for that.,faq.biz_new,Gusto mong magsimula ng isang maliit na kumpanya. Kailangan ng utang para sa na.,
+New in business so can I get loan?,faq.biz_new,Bago sa negosyo kaya maaari ako makakuha ng utang?,
+Apna business open karna hai sir,faq.biz_new,Apna Business Open Karna Hai Sir.,
+Business start karna hai,faq.biz_new,Nagsisimula ang negosyo kay Karna Hai.,
+Business shuru karna hai,faq.biz_new,Business Shuru Karna Hai.,
+this is my first business,faq.biz_new,Ito ang aking unang negosyo,
+I am starting an online business,faq.biz_new,Nagsisimula ako ng isang online na negosyo,
+Can a new business get a loan from you?,faq.biz_new,Maaari bang makakuha ng isang bagong negosyo mula sa iyo?,
+This loan would be good for my business?,faq.biz_simpler,Ang utang na ito ay magiging mabuti para sa aking negosyo?,
+this loan is available to all kinds of business?,faq.biz_simpler,Ang utang na ito ay magagamit sa lahat ng uri ng negosyo?,
+This loan caters to which kind of businesses?,faq.biz_simpler,Ang utang na ito ay nagbibigay ng uri ng mga negosyo?,
+The types of companies you give loan to,faq.biz_simpler,Ang mga uri ng mga kumpanya na binibigyan mo ng utang sa.,
+The loan you give is right for my company?,faq.biz_simpler,Ang utang na iyong ibinibigay ay tama para sa aking kumpanya?,
+The kind of companies you give the loan?,faq.biz_simpler,Ang uri ng mga kumpanya na ibinigay mo sa utang?,
+The categories of company you give the loan to,faq.biz_simpler,Ang mga kategorya ng kumpanya na ibinibigay mo sa utang sa.,
+Tell me the types of companies to which you give loan,faq.biz_simpler,Sabihin sa akin ang mga uri ng mga kumpanya kung saan ka magbigay ng utang,
+Tell me the types of companies that can use this loan?,faq.biz_simpler,Sabihin mo sa akin ang mga uri ng mga kumpanya na maaaring gamitin ang utang na ito?,
+Tell me the types of companies that can use abcd company direct?,faq.biz_simpler,Sabihin mo sa akin ang mga uri ng mga kumpanya na maaaring gumamit ng direktang kumpanya ng ABCD?,
+Tell me the business that I take loan from you?,faq.biz_simpler,Sabihin mo sa akin ang negosyo na kinukuha ko mula sa iyo?,
+Tell me the business that can use this loan?,faq.biz_simpler,Sabihin mo sa akin ang negosyo na magagamit ang utang na ito?,
+Tell me the business that can use abcd company direct?,faq.biz_simpler,Sabihin mo sa akin ang negosyo na magagamit ang direktang kumpanya ng ABCD?,
+Providing loan is available for all kind of biz?,faq.biz_simpler,Ang pagbibigay ng pautang ay magagamit para sa lahat ng uri ng biz?,
+Only business who can apply for abcd company direct from abcd company?,faq.biz_simpler,Tanging negosyo na maaaring mag-aplay para sa direktang kumpanya ng ABCD mula sa kumpanya ng ABCD?,
+Number of companies to give  the loan too,faq.biz_simpler,Bilang ng mga kumpanya upang bigyan ang utang din,
+My business can avail abcd company direct from abcd company?,faq.biz_simpler,Maaaring mapakinabangan ng aking negosyo ang direktang kumpanya ng ABCD mula sa kumpanya ng ABCD?,
+My biz can apply for loan?,faq.biz_simpler,Ang aking biz ay maaaring mag-aplay para sa utang?,
+Loan you give is to which types of companies?,faq.biz_simpler,Ang utang mo ay ang mga uri ng mga kumpanya?,
+Loan will be offered to which types of business?,faq.biz_simpler,Inaalok ang pautang kung aling mga uri ng negosyo?,
+Loan is provided to which type of businesses?,faq.biz_simpler,Ang utang ay ibinigay sa kung anong uri ng mga negosyo?,
+Loan is provided for which businesses?,faq.biz_simpler,Ang utang ay ibinigay para sa mga negosyo?,
+loan is given to which firms?,faq.biz_simpler,Ang utang ay ibinibigay sa mga kumpanya?,
+Loan is given by you for which companies,faq.biz_simpler,Ang utang ay ibinigay sa iyo kung saan ang mga kumpanya,
+loan can used by which business?,faq.biz_simpler,Maaaring gamitin ang pautang kung saan ang negosyo?,
+Loan can be taken by me?,faq.biz_simpler,Ang utang ay maaaring makuha sa akin?,
+Loan available for business like ours?,faq.biz_simpler,Pautang na magagamit para sa negosyo tulad ng atin?,
+Keep simple tp,faq.biz_simpler,Panatilihin ang simpleng TP,
+Is this type of loan right for my business?,faq.biz_simpler,Ang ganitong uri ng utang ay tama para sa aking negosyo?,
+Is this loan right for mine business?,faq.biz_simpler,Ang utang ba ay tama para sa aking negosyo?,
+Is Loan good for my business?,faq.biz_simpler,Ang utang ba ay mabuti para sa aking negosyo?,
+Is abcd company direct right for my business?,faq.biz_simpler,Ang direktang kumpanya ng ABCD para sa aking negosyo?,
+Is abcd company direct good for my business?,faq.biz_simpler,Ang direktang kumpanya ng ABCD para sa aking negosyo?,
+Is abcd company direct appropriate for my business?,faq.biz_simpler,Ang direktang kumpanya ng ABCD ay angkop para sa aking negosyo?,
+I have a proprietorship. Can I apply?,faq.biz_simpler,Mayroon akong proprietorship. Maaari ba akong mag-aplay?,
+I have a private company. Can I apply?,faq.biz_simpler,Mayroon akong pribadong kumpanya. Maaari ba akong mag-aplay?,
+How is abcd company direct right for my business?,faq.biz_simpler,Paano direktang direkta ng kumpanya ng ABCD para sa aking negosyo?,
+From you can I take the loan?,faq.biz_simpler,Mula sa maaari mong gawin ang utang?,
+For what type of business this loan is provided?,faq.biz_simpler,Para sa anong uri ng negosyo ang ibinigay na utang na ito?,
+Firms which can apply for this loan?,faq.biz_simpler,Mga kumpanya na maaaring mag-aplay para sa utang na ito?,
+Do you offer loan to business like ours?,faq.biz_simpler,Nag-aalok ka ba ng pautang sa negosyo tulad natin?,
+Can my business take loan from you?,faq.biz_simpler,Maaari bang magbayad ang aking negosyo mula sa iyo?,
+Can my business avail abcd company direct?,faq.biz_simpler,Maaari bang mag-direct ang aking negosyo sa ABCD Company?,
+Which business can take loan from you?,faq.biz_simpler,Aling negosyo ang maaaring mag-utang mula sa iyo?,
+What types of companies do you give loans to?,faq.biz_simpler,Anong mga uri ng mga kumpanya ang nagbibigay sa iyo ng mga pautang?,
+What types of businesses does your loan caters?,faq.biz_simpler,Anong mga uri ng mga negosyo ang ginagawa ng iyong pautang?,
+What kind of companies use this loan,faq.biz_simpler,Anong uri ng mga kumpanya ang gumagamit ng utang na ito,
+What kind of companies use abcd company direct,faq.biz_simpler,Anong uri ng mga kumpanya ang gumagamit ng direktang kumpanya ng ABCD.,
+Can I take the business loan from your company?,faq.biz_simpler,Maaari ko bang kunin ang pautang sa negosyo mula sa iyong kumpanya?,
+Can I take the business loan from you?,faq.biz_simpler,Maaari ko bang kunin ang pautang sa negosyo mula sa iyo?,
+Can I take loan from your company?,faq.biz_simpler,Maaari ba akong magbayad mula sa iyong kumpanya?,
+Can can be taken by any business?,faq.biz_simpler,Maaaring makuha ng anumang negosyo?,
+Businesses which can avail services of abcd company direct?,faq.biz_simpler,Mga negosyo na maaaring makatulong sa mga serbisyo ng direktang kumpanya ng ABCD?,
+Any business can take this loan?,faq.biz_simpler,Anumang negosyo ang maaaring tumagal ng utang na ito?,
+abcd company provides loan to which type of business?,faq.biz_simpler,Ang kumpanya ng ABCD ay nagbibigay ng pautang kung anong uri ng negosyo?,
+abcd company is for providing loan and is available for all kind of biz?,faq.biz_simpler,Ang kumpanya ng ABCD ay para sa pagbibigay ng pautang at magagamit para sa lahat ng uri ng biz?,
+abcd company gives loan to which kind to businesses?,faq.biz_simpler,Ang kumpanya ng ABCD ay nagbibigay ng pautang kung anong uri sa mga negosyo?,
+abcd company direct would be suitable for my business?,faq.biz_simpler,Ang direktang kumpanya ng ABCD ay angkop para sa aking negosyo?,
+abcd company direct will be offered to which types of business?,faq.biz_simpler,Ang direktang kumpanya ng ABCD ay ihahandog kung aling mga uri ng negosyo?,
+abcd company direct is given to which of the businesses?,faq.biz_simpler,Ang direktang kumpanya ng ABCD ay ibinibigay sa alin sa mga negosyo?,
+abcd company direct is given to what kind of businesses?,faq.biz_simpler,Ang direktang kumpanya ng ABCD ay ibinibigay sa anong uri ng mga negosyo?,
+abcd company direct is delivered for what kinds of businesses?,faq.biz_simpler,Ang direktang kumpanya ng ABCD ay inihatid para sa kung anong uri ng mga negosyo?,
+abcd company direct is available for my business?,faq.biz_simpler,Available ang direktang kumpanya ng ABCD para sa aking negosyo?,
+abcd company direct could be used for what type of business?,faq.biz_simpler,Ang direktang kumpanya ng ABCD ay maaaring gamitin para sa kung anong uri ng negosyo?,
+abcd company direct caters to what kind of business?,faq.biz_simpler,ABCD Company Direct Caters sa Anong uri ng negosyo?,
+abcd company direct can used by which business?,faq.biz_simpler,Ang direktang kumpanya ng ABCD ay maaaring magamit ng negosyo?,
+abcd company direct can be used in my business?,faq.biz_simpler,Maaaring gamitin ang direktang kumpanya ng ABCD sa aking negosyo?,
+abcd company direct can be used by which of the businesses?,faq.biz_simpler,Ang direktang kumpanya ng ABCD ay maaaring gamitin kung alin sa mga negosyo?,
+abcd company direct can be used by business of which types?,faq.biz_simpler,Ang direktang kumpanya ng ABCD ay maaaring gamitin sa pamamagitan ng negosyo kung saan ang mga uri?,
+Is this loan give only to firms?,faq.biz_simpler,Ang utang ba ay nagbibigay lamang sa mga kumpanya?,
+Can my business apply for abcd company direct?,faq.biz_simpler,Maaari bang mag-aplay ang aking negosyo para sa direktang kumpanya ng ABCD?,
+Who can take loan from abcd company?,faq.biz_simpler,Sino ang maaaring mag-utang mula sa kumpanya ng ABCD?,
+this loan give only to business?,faq.biz_simpler,Ang utang na ito ay nagbibigay lamang sa negosyo?,
+this loan give only to businesses?,faq.biz_simpler,Ang utang na ito ay nagbibigay lamang sa mga negosyo?,
+this loan give only to companies?,faq.biz_simpler,Ang utang na ito ay nagbibigay lamang sa mga kumpanya?,
+What kind of business can take loan from you?,faq.biz_simpler,Anong uri ng negosyo ang maaaring mag-utang mula sa iyo?,
+Types of companies you give loans to?,faq.biz_simpler,Uri ng mga kumpanya na binibigyan mo ng mga pautang?,
+Types of business which can apply for this loan of abcd company?,faq.biz_simpler,Mga uri ng negosyo na maaaring mag-aplay para sa utang na ito ng kumpanya ng ABCD?,
+Types of business that can have loan from you?,faq.biz_simpler,Mga uri ng negosyo na maaaring magkaroon ng pautang mula sa iyo?,
+Types of business that can have loan?,faq.biz_simpler,Mga uri ng negosyo na maaaring magkaroon ng pautang?,
+Types of businesses which can apply for loan from your company?,faq.biz_simpler,Mga uri ng mga negosyo na maaaring mag-aplay para sa pautang mula sa iyong kumpanya?,
+Which businesses does this loan caters to?,faq.biz_simpler,Aling mga negosyo ang ginagamit ng utang na ito?,
+Which type of business can apply for abcd company direct?,faq.biz_simpler,Aling uri ng negosyo ang maaaring mag-aplay para sa direktang kumpanya ng ABCD?,
+Which types of business can have loan from you?,faq.biz_simpler,Aling mga uri ng negosyo ang maaaring magkaroon ng pautang mula sa iyo?,
+Who can apply for abcd company direct?,faq.biz_simpler,Sino ang maaaring mag-aplay para sa direktang kumpanya ng ABCD?,
+Who can take loan from abcd company?,faq.biz_simpler,Sino ang maaaring mag-utang mula sa kumpanya ng ABCD?,
+You will provide your loan to us?,faq.biz_simpler,Ibibigay mo ang iyong utang sa amin?,
+Your company gives loan to what kind of businesses?,faq.biz_simpler,Ang iyong kumpanya ay nagbibigay ng utang sa anong uri ng mga negosyo?,
+You provide loan of which business?,faq.biz_simpler,Nagbibigay ka ng pautang kung saan ang negosyo?,
+You give loan to which types of business?,faq.biz_simpler,Nagbibigay ka ng utang kung anong uri ng negosyo?,
+Would abcd company direct be right for my business,faq.biz_simpler,Gusto ng direktang kumpanya ng ABCD para sa aking negosyo,
+Will you give me your loan?,faq.biz_simpler,Ibibigay mo ba sa akin ang iyong utang?,
+To which types of companies do you give loans,faq.biz_simpler,Sa kung aling mga uri ng mga kumpanya ang nagbibigay sa iyo ng mga pautang,
+To which types of businesses do you offer loan?,faq.biz_simpler,Sa anong uri ng mga negosyo ang nag-aalok ka ng pautang?,
+How much amount of money can I have?,faq.borrow_limit,Gaano karami ang halaga ng pera?,
+"How much can I borrow, and for how long?",faq.borrow_limit,"Magkano ang maaari kong hiramin, at kung gaano katagal?",
+Amount given for loan?,faq.borrow_limit,Halaga na ibinigay para sa utang?,
+Amount I can borrow from this loan?,faq.borrow_limit,Halaga na maaari kong hiramin mula sa utang na ito?,
+Amount I can have as loan?,faq.borrow_limit,Halaga na maaari kong magkaroon ng pautang?,
+Amount I can take as loan?,faq.borrow_limit,Halaga na maaari kong gawin bilang pautang?,
+Amount of loan that I can take?,faq.borrow_limit,Halaga ng utang na maaari kong gawin?,
+How much loan amount can I get?,faq.borrow_limit,Magkano ang halaga ng utang na maaari kong makuha?,
+Amount of money I can take as a loan?,faq.borrow_limit,Halaga ng pera na maaari kong gawin bilang isang pautang?,
+Amount of money I can take as loan?,faq.borrow_limit,Halaga ng pera na maaari kong gawin bilang pautang?,
+Amount of money I have as loan from abcd company?,faq.borrow_limit,Halaga ng pera na mayroon ako bilang pautang mula sa kumpanya ng ABCD?,
+How much loan amount can I take from you?,faq.borrow_limit,Magkano ang halaga ng utang na maaari kong kunin mula sa iyo?,
+Borrowing limit?,faq.borrow_limit,Limitasyon sa paghiram?,
+Borrow limit?,faq.borrow_limit,Humiram ng limitasyon?,
+Can you send me the info about money I can have from this loan?,faq.borrow_limit,Maaari mo bang ipadala sa akin ang impormasyon tungkol sa pera na maaari kong makuha mula sa utang na ito?,
+Different loan amounts I can have as loan?,faq.borrow_limit,Iba't ibang mga halaga ng pautang ang maaari kong magkaroon ng pautang?,
+Final limit of money I can take as a loan?,faq.borrow_limit,Final limit ng pera na maaari kong gawin bilang isang pautang?,
+For how long can I have your borrowed money?,faq.borrow_limit,Para sa kung gaano katagal ako maaaring humiram ng pera?,
+How much amount I can get?,faq.borrow_limit,Magkano ang halaga na maaari kong makuha?,
+Is there any limit on loan I can have?,faq.borrow_limit,Mayroon bang limitasyon sa utang na maaari kong magkaroon?,
+I can have what type of loan amount?,faq.borrow_limit,Maaari ba akong magkaroon ng uri ng halaga ng pautang?,
+How much money can I take as loan?,faq.borrow_limit,Gaano karaming pera ang maaari kong gawin bilang pautang?,
+How much loan can I get?,faq.borrow_limit,Magkano ang utang ko?,
+How much loan can I get ?,faq.borrow_limit,Magkano ang utang ko?,
+How much loan amount I can get?,faq.borrow_limit,Magkano ang halaga ng utang na maaari kong makuha?,
+How much loan amount can I take as a loan?,faq.borrow_limit,Magkano ang halaga ng utang na maaari kong kunin bilang isang pautang?,
+Amount till which you give loans to busineses?,faq.borrow_limit,Halaga hanggang sa kung saan mo bigyan ang mga pautang sa mga businees?,
+As a loan how much loan amount can I take?,faq.borrow_limit,Bilang isang pautang kung magkano ang halaga ng utang na maaari kong gawin?,
+As a loan how much money can I have?,faq.borrow_limit,Bilang isang pautang kung magkano ang pera ko?,
+As loan how money can I have?,faq.borrow_limit,Bilang pautang kung paano ako makakakuha ng pera?,
+When will I have to give back the loan amount I take from abcd company direct?,faq.borrow_limit,Kailan ko kailangang ibalik ang halaga ng pautang na kinukuha ko mula sa direktang kumpanya ng ABCD?,
+What si the borrow limit?,faq.borrow_limit,Ano ang limitasyon ng humiram?,
+What loan amount I can get as loan?,faq.borrow_limit,Anong halaga ng pautang ang maaari kong makuha bilang pautang?,
+What is your borrowing limit?,faq.borrow_limit,Ano ang limitasyon ng iyong paghiram?,
+What is the total amount I can borrow from this loan?,faq.borrow_limit,Ano ang kabuuang halaga na maaari kong hiramin mula sa utang na ito?,
+What is the money I can borrow from this loan?,faq.borrow_limit,Ano ang pera na maaari kong hiramin mula sa utang na ito?,
+What is the loan amount I can take as loan?,faq.borrow_limit,Ano ang halaga ng pautang na maaari kong gawin bilang pautang?,
+What is the limit of loan I can have?,faq.borrow_limit,Ano ang limitasyon ng utang na maaari kong magkaroon?,
+What is money I Can take as a loan?,faq.borrow_limit,Ano ang pera na maaari kong gawin bilang isang pautang?,
+What is amount you give money to businesses?,faq.borrow_limit,Ano ang halaga na nagbibigay sa iyo ng pera sa mga negosyo?,
+What are the loan amounts that I can have?,faq.borrow_limit,Ano ang mga halaga ng pautang na maaari kong magkaroon?,
+What are the different loan amount I can have?,faq.borrow_limit,Ano ang iba't ibang halaga ng pautang na maaari kong magkaroon?,
+What amount of loan I can take from you?,faq.borrow_limit,Anong halaga ng pautang ang maaari kong gawin mula sa iyo?,
+Total money I can borrow from your loan?,faq.borrow_limit,Kabuuang pera na maaari kong humiram mula sa iyong pautang?,
+Total amount of money I can have from your simplerloan?,faq.borrow_limit,Kabuuang halaga ng pera na maaari kong makuha mula sa iyong simplerloan?,
+Total amount of money I can have from your abcd company direct?,faq.borrow_limit,Kabuuang halaga ng pera na maaari kong makuha mula sa iyong direktang kumpanya ng ABCD?,
+Total amount I can borrow from your loan?,faq.borrow_limit,Kabuuang halaga na maaari kong hiramin mula sa iyong pautang?,
+Till what amount do you give loan?,faq.borrow_limit,Hanggang sa anong halaga ang ibinibigay mo sa utang?,
+Till amount which you give loan to businesses?,faq.borrow_limit,Hanggang sa halaga na iyong ibinibigay sa mga negosyo?,
+Tell me the money I can borrow from the loan?,faq.borrow_limit,Sabihin mo sa akin ang pera na maaari kong hiramin mula sa utang?,
+Tell me the loan amount I can take from you?,faq.borrow_limit,Sabihin mo sa akin ang halaga ng utang na maaari kong gawin mula sa iyo?,
+Tell me the limit on loan that I have?,faq.borrow_limit,Sabihin mo sa akin ang limitasyon sa utang na mayroon ako?,
+What is the borrowing limit?,faq.borrow_limit,Ano ang limitasyon ng paghiram?,
+Loan amount I can take from you?,faq.borrow_limit,Ang halaga ng utang na maaari kong gawin mula sa iyo?,
+Loan amount I can have?,faq.borrow_limit,Halaga ng utang na maaari kong magkaroon?,
+Limit of money I can take as loan?,faq.borrow_limit,Limitasyon ng pera na maaari kong gawin bilang pautang?,
+Need information about the money I can take from simplerloan?,faq.borrow_limit,Kailangan mo ng impormasyon tungkol sa pera na maaari kong gawin mula sa simple?,
+Please send information about the amount of money I can have from this loan?,faq.borrow_limit,Mangyaring magpadala ng impormasyon tungkol sa halaga ng pera na maaari kong makuha mula sa utang na ito?,
+Please send information about the money I can have from this loan?,faq.borrow_limit,Mangyaring magpadala ng impormasyon tungkol sa pera na maaari kong makuha mula sa utang na ito?,
+Need information about the money I can take from abcd company direct?,faq.borrow_limit,Kailangan mo ng impormasyon tungkol sa pera na maaari kong gawin mula sa direktang kumpanya ng ABCD?,
+Need information about the amount I can take from this loan?,faq.borrow_limit,Kailangan mo ng impormasyon tungkol sa halaga na maaari kong gawin mula sa utang na ito?,
+Need information about the amount I can take from abcd company direct?,faq.borrow_limit,Kailangan mo ng impormasyon tungkol sa halaga na maaari kong gawin mula sa direktang kumpanya ng ABCD?,
+Need details about how much money I can take from abcd company direct?,faq.borrow_limit,Kailangan mo ng mga detalye tungkol sa kung magkano ang pera na maaari kong gawin mula sa direktang kumpanya ng ABCD?,
+Need details about how much money I can take?,faq.borrow_limit,Kailangan mo ng mga detalye tungkol sa kung magkano ang pera na maaari kong gawin?,
+Need details about how much amount I can take from this loan?,faq.borrow_limit,Kailangan mo ng mga detalye tungkol sa kung magkano ang halaga na maaari kong gawin mula sa utang na ito?,
+Need details about how much amount I can take from abcd company direct?,faq.borrow_limit,Kailangan mo ng mga detalye tungkol sa kung magkano ang halaga na maaari kong gawin mula sa direktang kumpanya ng ABCD?,
+Most money I can have as loan?,faq.borrow_limit,Karamihan sa pera na maaari kong magkaroon ng pautang?,
+Money I can borrow from your company?,faq.borrow_limit,Pera na maaari kong humiram mula sa iyong kumpanya?,
+Money I can borrow from this loan?,faq.borrow_limit,Pera na maaari kong humiram mula sa utang na ito?,
+Please tell me the amount I can borrow?,faq.borrow_limit,Mangyaring sabihin sa akin ang halaga na maaari kong hiramin?,
+Please tell me the amount I can borrow from abcd company direct?,faq.borrow_limit,Mangyaring sabihin sa akin ang halaga na maaari kong hiramin mula sa direktang kumpanya ng ABCD?,
+Please tell me the amount I can borrow from this loan?,faq.borrow_limit,Mangyaring sabihin sa akin ang halaga na maaari kong hiramin mula sa utang na ito?,
+Please tell me the money I can borrow from abcd company direct?,faq.borrow_limit,Mangyaring sabihin sa akin ang pera na maaari kong humiram mula sa direktang kumpanya ng ABCD?,
+Send info about the amount I can have from this loan?,faq.borrow_limit,Magpadala ng impormasyon tungkol sa halaga na maaari kong makuha mula sa utang na ito?,
+Send info about the money I can have from this loan?,faq.borrow_limit,Magpadala ng impormasyon tungkol sa pera na maaari kong makuha mula sa utang na ito?,
+Tell me the amount I can borrow from the loan?,faq.borrow_limit,Sabihin mo sa akin ang halaga na maaari kong hiramin mula sa utang?,
+borrow money given can used by me for which purposes?,faq.borrow_use,humiram ng pera na ibinigay sa akin kung saan ang mga layunin?,
+Can this borrowed amount be used for business purposes?,faq.borrow_use,Maaari bang gamitin ang hirded na halaga para sa mga layuning pang-negosyo?,
+Can this borrowed amount be used for business reasons?,faq.borrow_use,Maaari bang gamitin ang hirded na halaga para sa mga dahilan ng negosyo?,
+Cases in which abcd company direct would be used be me,faq.borrow_use,Mga kaso kung saan ang direktang kumpanya ng ABCD ay gagamitin ako,
+Different objectives I can do with abcd company direct?,faq.borrow_use,Iba't ibang mga layunin ang maaari kong gawin sa direktang kumpanya ng ABCD?,
+Different purposes this borrowed amount can be used?,faq.borrow_use,Iba't ibang mga layunin na ito hiniram na halaga ay maaaring magamit?,
+Different purposes this borrowed money can be used?,faq.borrow_use,Iba't ibang mga layunin na ito hiniram pera ay maaaring gamitin?,
+Different reasons this borrowed amount can be used?,faq.borrow_use,Iba't ibang mga kadahilanan ang hiniram na halaga na ito ay maaaring gamitin?,
+Different reasons this borrowed money can be used?,faq.borrow_use,Iba't ibang mga kadahilanan ang hiniram na pera na ito ay maaaring gamitin?,
+For what functions can I use abcd company direct?,faq.borrow_use,Para sa kung anong mga function ang maaari kong gamitin ang direktang kumpanya ng ABCD?,
+For what functions can I use this loan?,faq.borrow_use,Para sa anong mga function ang maaari kong gamitin ang utang na ito?,
+For what purposes can I use abcd company direct?,faq.borrow_use,Para sa kung anong mga layunin ang maaari kong gamitin ang direktang kumpanya ng ABCD?,
+For what purposes can I use the borrowed amount?,faq.borrow_use,Para sa kung anong mga layunin ang maaari kong gamitin ang hiniram na halaga?,
+For what purposes can I use the borrow money?,faq.borrow_use,Para sa kung anong mga layunin ang maaari kong gamitin ang pera ng humiram?,
+Which purposes can this borrowed amount be used for?,faq.borrow_use,Aling mga layunin ang maaaring hiraminang halaga na ito?,
+Which objectives can I fulfill with abcd company direct?,faq.borrow_use,Aling mga layunin ang maaari kong matupad sa direktang kumpanya ng ABCD?,
+Where would I use you this loan?,faq.borrow_use,Saan ko gagamitin ang utang na ito?,
+Where would I use you abcd company direct?,faq.borrow_use,Saan ko magagamit ang direktang kumpanya ng ABCD?,
+Where to use abcd company direct money?,faq.borrow_use,Saan gamitin ang direktang pera ng kumpanya ng ABCD?,
+Where can I use this money from loan?,faq.borrow_use,Saan ko magagamit ang pera na ito mula sa utang?,
+Where can I use this loan?,faq.borrow_use,Saan ko magagamit ang utang na ito?,
+Where can I use the loan money?,faq.borrow_use,Saan ko magagamit ang pera ng pautang?,
+Where can I use the loan?,faq.borrow_use,Saan ko magagamit ang utang?,
+Where can I used the loaned amount?,faq.borrow_use,Saan ko magagamit ang pautang na halaga?,
+Where can I use abcd company direct,faq.borrow_use,Saan ko magagamit ang direktang kumpanya ng ABCD.,
+What can I use the money?,faq.borrow_use,Ano ang maaari kong gamitin ang pera?,
+What can I use the loan money for?,faq.borrow_use,Ano ang maaari kong gamitin ang pera ng pautang para sa?,
+What can I use the loan amount for?,faq.borrow_use,Ano ang maaari kong gamitin ang halaga ng utang para sa?,
+What can I use the borrowed money for? What can I not use the borrowed money for?,faq.borrow_use,Ano ang maaari kong gamitin ang hiniram na pera para sa? Ano ang hindi ko magagamit sa hiniram na pera para sa?,
+What can I use the borrowed money for?,faq.borrow_use,Ano ang maaari kong gamitin ang hiniram na pera para sa?,
+What are the various purposes that abcd company direct can be used for?,faq.borrow_use,Ano ang iba't ibang layunin na maaaring gamitin ng direktang kumpanya ng ABCD?,
+What are the various functions that abcd company direct can be used for?,faq.borrow_use,Ano ang iba't ibang mga function na maaaring gamitin ng direktang kumpanya ng ABCD?,
+What are the different things where abcd company direct is benificial?,faq.borrow_use,Ano ang iba't ibang mga bagay kung saan ang direktang kumpanya ng ABCD ay Benificial?,
+What are the different things that abcd company direct can be used for,faq.borrow_use,Ano ang iba't ibang mga bagay na maaaring gamitin ng direktang kumpanya ng ABCD para sa,
+What are the different reasons this borrowed amount is valid?,faq.borrow_use,Ano ang iba't ibang dahilan na may bisa na halaga na hiniram na ito?,
+What are the different purposes this borrowed money is valid?,faq.borrow_use,Ano ang iba't ibang layunin na ito na hiniram na pera ay may bisa?,
+What are the different purposes this borrowed amount is valid?,faq.borrow_use,Ano ang iba't ibang layunin na ito na hiniram na halaga ay may bisa?,
+What are the different objectives can I fulfill with abcd company direct,faq.borrow_use,Ano ang iba't ibang mga layunin na maaari kong matupad sa direktang kumpanya ng ABCD,
+Various reasons I can use the borrow money?,faq.borrow_use,Iba't ibang mga kadahilanan ang maaari kong gamitin ang pera ng humiram?,
+Various reasons I can use the borrowed amount?,faq.borrow_use,Iba't ibang mga dahilan ang maaari kong gamitin ang hiniram na halaga?,
+Various purposes I can use the borrowed amount?,faq.borrow_use,Iba't ibang mga layunin Maaari kong gamitin ang hiniram na halaga?,
+Use cases for this loan?,faq.borrow_use,Gumamit ng mga kaso para sa utang na ito?,
+Use cases for abcd company direct,faq.borrow_use,Gumamit ng mga kaso para sa direktang kumpanya ng ABCD.,
+Which purposes can this borrowed money be used for?,faq.borrow_use,Aling mga layunin ay maaaring gamitin ang hiniram na pera para sa?,
+if i am a stock market trader then can i get the loan,faq.borrow_use,Kung ako ay isang stock market negosyante pagkatapos ay maaari kong makuha ang utang,
+stock market trader then can i get the loan,faq.borrow_use,Ang negosyante ng stock market ay maaari kong makuha ang utang,
+stock market trader i need loan,faq.borrow_use,stock market negosyante kailangan kong pautang,
+stock market trader i need loan from abcd company,faq.borrow_use,Stock Market Trader Kailangan ko ng pautang mula sa kumpanya ng ABCD.,
+From abcd company i need loan and i'm in trading,faq.borrow_use,Mula sa kumpanya ng ABCD kailangan ko ng utang at ako ay nasa kalakalan,
+Loan amount can be used where?,faq.borrow_use,Maaaring gamitin ang halaga ng pautang kung saan?,
+can i get loan for trading in stocks,faq.borrow_use,Maaari ba akong makakuha ng pautang para sa kalakalan sa mga stock,
+Need loan for trading,faq.borrow_use,Kailangan ang pautang para sa kalakalan,
+For what reasons can I use abcd company direct?,faq.borrow_use,Para sa anong mga dahilan ang maaari kong gamitin ang direktang kumpanya ng ABCD?,
+For what reasons can I use the borrowed amount?,faq.borrow_use,Para sa anong mga dahilan ang maaari kong gamitin ang hiniram na halaga?,
+For what scenarios will abcd company direct help?,faq.borrow_use,Para sa anong mga sitwasyon ang direktang tulong ng kumpanya ng ABCD?,
+For what scenarios will this loan help?,faq.borrow_use,Para sa anong mga sitwasyon ang tulong ng utang na ito?,
+For which functions will I use abcd company direct?,faq.borrow_use,Para sa kung aling mga function ang gagamitin ko ang direktang kumpanya ng ABCD?,
+For which functions will I use this loan?,faq.borrow_use,Para sa kung aling mga function ang gagamitin ko ang utang na ito?,
+For which of the purposes will I use abcd company direct?,faq.borrow_use,Para sa alin sa mga layunin ay gagamitin ko ang direktang kumpanya ng ABCD?,
+I can use the borrowed amount for what purpose?,faq.borrow_use,Maaari ko bang gamitin ang hiniram na halaga para sa anong layunin?,
+I can use the borrowed amount for what reason?,faq.borrow_use,Maaari ko bang gamitin ang hiniram na halaga para sa anong dahilan?,
+In which scenarios would be abcd company direct useful?,faq.borrow_use,Sa kung saan ang mga sitwasyon ay magiging direktang kumpanya ng ABCD?,
+In which scenarios would be this loan useful?,faq.borrow_use,Sa anong mga sitwasyon ay magiging kapaki-pakinabang ang utang na ito?,
+Is there any restriction on how I use the borrowed money for?,faq.borrow_use,Mayroon bang anumang paghihigpit sa kung paano ko ginagamit ang hiniram na pera para sa?,
+Loan amount can be used for doing what?,faq.borrow_use,Maaaring gamitin ang halaga ng pautang para sa paggawa ng ano?,
+can i get loan for trading,faq.borrow_use,Maaari ba akong makakuha ng pautang para sa kalakalan,
+Loan can be used for which purposes?,faq.borrow_use,Maaaring gamitin ang pautang para sa mga layunin?,
+Loan I can use for which purposes?,faq.borrow_use,Pautang ang maaari kong gamitin para sa mga layunin?,
+Loan money Can be used where?,faq.borrow_use,Maaaring gamitin ang pera ng pautang kung saan?,
+Loan money use?,faq.borrow_use,Paggamit ng pera sa pautang?,
+loan would be used by me for which purposes?,faq.borrow_use,Ang utang ay gagamitin ko kung saan ang mga layunin?,
+Money of the loan can be used where?,faq.borrow_use,Maaaring gamitin ang pera ng utang kung saan?,
+Money taken by abcd company direct can be used where?,faq.borrow_use,Ang pera na kinuha ng direktang kumpanya ng ABCD ay maaaring gamitin kung saan?,
+Need to taking abcd company direct?,faq.borrow_use,Kailangan mo ng direktang kumpanya ng ABCD?,
+Objective I can achieve by using abcd company direct?,faq.borrow_use,Layunin na maaari kong makamit sa pamamagitan ng paggamit ng direktang kumpanya ng ABCD?,
+Objective I can achieve by using this loan?,faq.borrow_use,Layunin na maaari kong makamit sa pamamagitan ng paggamit ng utang na ito?,
+Please tell me where can I use abcd company direct,faq.borrow_use,Mangyaring sabihin sa akin kung saan ko magagamit ang direktang kumpanya ng ABCD,
+projects can I use the borrowed amount in ?,faq.borrow_use,Maaari ko bang gamitin ang mga hiniram na halaga?,
+Purposes I can use the borrowed amount for?,faq.borrow_use,Mga layunin Maaari kong gamitin ang hiniram na halaga para sa?,
+reasons I can use the borrowed amount for?,faq.borrow_use,Mga dahilan Maaari ko bang gamitin ang hiniram na halaga para sa?,
+Tell me the places where I can use the loaned amount?,faq.borrow_use,Sabihin mo sa akin ang mga lugar kung saan maaari kong gamitin ang halaga ng utang?,
+Tell me what can I do with the loaned amount?,faq.borrow_use,Sabihin mo sa akin kung ano ang magagawa ko sa utang na utang?,
+Tell me which objectives can I fulfill with abcd company direct?,faq.borrow_use,Sabihin mo sa akin kung aling mga layunin ang maaari kong matupad sa direktang kumpanya ng ABCD?,
+The loaned amount can be used where?,faq.borrow_use,Maaaring gamitin ang pautang na halaga kung saan?,
+Things for which abcd company direct would be useful?,faq.borrow_use,Mga bagay na kung saan ang direktang kumpanya ng ABCD ay magiging kapaki-pakinabang?,
+Why to take abcd company direct?,faq.borrow_use,Bakit Direktang Direktang Kumpanya ng ABCD?,
+Which reasons can this borrowed money be used for?,faq.borrow_use,Aling mga dahilan ang maaaring gamitin ng hiniram na pera para sa?,
+Amount granted by abcd company direct can be used by me for which purposes?,faq.borrow_use,Ang halaga na ipinagkaloob ng direktang kumpanya ng ABCD ay maaaring gamitin sa akin kung saan ang mga layunin?,
+abcd company direct would be used by me for which purposes?,faq.borrow_use,Ang direktang kumpanya ng ABCD ay gagamitin ko kung saan ang mga layunin?,
+abcd company direct would be used by me for which functions,faq.borrow_use,Ang direktang kumpanya ng ABCD ay gagamitin ng akin kung saan ang mga function,
+abcd company direct would be used by me for what purposes?,faq.borrow_use,Ang direktang kumpanya ng ABCD ay gagamitin ko para sa kung anong layunin?,
+abcd company direct would be benificial for me in which purposes,faq.borrow_use,Ang direktang kumpanya ng ABCD ay magiging benificial para sa akin kung saan ang mga layunin,
+abcd company direct can be use for which scenarios?,faq.borrow_use,Maaaring gamitin ang direktang kumpanya ng ABCD kung aling mga sitwasyon?,
+abcd company direct can be use for which purposes?,faq.borrow_use,Ang direktang kumpanya ng ABCD ay maaaring gamitin kung saan ang mga layunin?,
+abcd company direct can be used by me for what purposes?,faq.borrow_use,Ang direktang kumpanya ng ABCD ay maaaring gamitin sa akin para sa kung anong mga layunin?,
+abcd company direct can be used by me for what kind of functions?,faq.borrow_use,ABCD Company Direct ay maaaring gamitin sa akin para sa kung anong uri ng mga function?,
+this loan would be used by me for which functions,faq.borrow_use,Ang utang na ito ay gagamitin ng akin kung saan ang mga function,
+Amount I can use for what reasons?,faq.borrow_use,Halaga na maaari kong gamitin para sa anong mga dahilan?,
+borrowed amount can be used for which of the purposes?,faq.borrow_use,Maaaring gamitin ang halagang hiniram para sa alin sa mga layunin?,
+borrowed amount given can used by me for what reasons?,faq.borrow_use,Ang hiniram na halaga na ibinigay ay maaaring gamitin sa akin kung ano ang mga dahilan?,
+borrowed amount given can used by me for which purposes?,faq.borrow_use,Ang halagang hiniram na ibinigay ay maaaring gamitin sa akin kung saan ang mga layunin?,
+borrowed money can be used for which of the purposes?,faq.borrow_use,Ang hiniram na pera ay maaaring gamitin para sa alin sa mga layunin?,
+borrow money given can used by me for what reasons?,faq.borrow_use,humiram ng pera na ibinigay sa akin kung ano ang mga dahilan?,
