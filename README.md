@@ -20,17 +20,16 @@ Alongside our open source initiative, we are also open sourcing related datasets
 
 
 ## Navigate this project
-* How this works: <https://github.com/Saphron-Asia/nan.ai-ml-nlu/blob/main/HOWTO.md>
-* Sample notebooks: <link>
-* Sample data: <link>
-* Contributing guidelines: <https://github.com/Saphron-Asia/nan.ai-ml-nlu/blob/main/CONTRIBUTE.md> 
-* Code of conduct: <https://github.com/Saphron-Asia/nan.ai-ml-nlu/blob/main/CODEOFCODUCT.md>
+* [How this works](https://github.com/Saphron-Asia/nan.ai-ml-nlu/blob/main/HOWTO.md)
+* [Sample data](https://github.com/Saphron-Asia/nan.ai-opendata-corpus)
+* [Contributing guidelines](https://github.com/Saphron-Asia/nan.ai-ml-nlu/blob/main/CONTRIBUTE.md) 
+* [Code of conduct](https://github.com/Saphron-Asia/nan.ai-ml-nlu/blob/main/CODEOFCODUCT.md)
 
 ## Resources
-* Documentation: <link>
-* Issue tracking: <https://github.com/Saphron-Asia/nan.ai-ml-nlu/issues>
-* How to contribute data: <link>
-* nan.ai English-Filipino Corpus Open Data: <https://github.com/Saphron-Asia/nan.ai-opendata-corpus>
+* Documentation
+* [Issue tracking](https://github.com/Saphron-Asia/nan.ai-ml-nlu/issues)
+* [How to contribute data](https://github.com/Saphron-Asia/nan.ai-opendata-corpus/blob/main/CONTRIBUTE.md)
+* [nan.ai English-Filipino Corpus Open Data](https://github.com/Saphron-Asia/nan.ai-opendata-corpus)
 
 ## License
 nanai-ml-nlu is licensed under the Apache License 2.0
